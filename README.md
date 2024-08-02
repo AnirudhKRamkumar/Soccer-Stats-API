@@ -1,12 +1,12 @@
-## PL Stats API
+# PL Stats API
 
-# Info
+## Info
 An API that allows the user to request data from the Premier League website.
 
-# Usage
+## Usage
 -not implemented yet-
 
-# Project Status
+## Project Status
 Requesting data from the PL website - 0%
 Packaging data to send back to user - 0%
 User queries - 0%
