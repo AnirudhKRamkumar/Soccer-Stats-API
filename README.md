@@ -1,12 +1,12 @@
 # Soccer Stats API
 
 ## Info
-An API that allows the user to request data from the ESPN website.
+A module that allows the user to request data from the FBRef website.
 
 ## Usage
 -not implemented yet-
 
 ## Project Status
-- Requesting data from the ESPN website: 50%
+- Requesting data from the FBRef website: 50%
 - Formatting data to send back to user: 25%
 - User queries: 0%
