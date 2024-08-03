@@ -1,8 +1,22 @@
 from bs4 import BeautifulSoup
 import requests
 
+
+leagues_list = {
+    "ENG": ["English Premier League", "EPL", "PL", "Premier League"],
+    "ESP": ["La Liga", "Liga", "Spanish Top Flight"],
+    "FRA": ["Ligue 1", "French League"],
+    "ITA": ["Serie A", "Italian League"],
+    "GER": ["Bundesliga", "German League"]
+}
+
+league_name = input("Which league's goal and assist stats do you want to see? ")
+for item in leagues_list:
+    if league_name in leagues_list[item]:
+        selected_league = item
+
 # URL of the webpage you want to scrape
-url = 'https://www.espn.com/soccer/stats/_/league/ENG.1/season/2023'
+url = F'https://www.espn.com/soccer/stats/_/league/{selected_league}.1/season/2023'
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
     'Accept-Language': 'en-US,en;q=0.9',
@@ -47,6 +61,7 @@ if response.status_code == 200:
                 gcounter += 1
         print(f"Name: {name} | Club: {club} | Goals: {goals} | Appearances: {gappearances}")
 
+    print("---------------------------------------------------------")
     # ASSISTS
     assists = aappearances = ""
     acounter = 0
