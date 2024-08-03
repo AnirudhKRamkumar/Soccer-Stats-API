@@ -1,4 +1,4 @@
-# PL Stats API
+# Soccer Stats API
 
 ## Info
 An API that allows the user to request data from the ESPN website.
