@@ -113,5 +113,5 @@ def range_shortening(column, condition):
         except ValueError:
           continue
 
-range_shortening(9, 21)
-range_shortening(1, "AUT")
+# range_shortening(9, 21)
+# range_shortening(1, "AUT")
