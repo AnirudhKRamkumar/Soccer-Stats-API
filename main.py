@@ -48,6 +48,7 @@ df['League'] = df['League'] + ' ' + df['League_']
 
 # Drop unnecessary columns
 df = df.drop(columns=['League_', 'Comp', 'Rk', 'Pos', 'Matches'])
+df = df[df['Player'] != 'Player']
 df = df.drop([0])
 
 # Replace position abbreviations with full position names
@@ -79,6 +80,14 @@ def range_shortening(column, condition):
             print(row.to_string(), "\n")
         except ValueError:
           continue
+
+# Export to HTML
+df.to_html('dataframe.html')
+
+# Open HTML file in default web browser (optional)
+import webbrowser
+webbrowser.open('dataframe.html')
+
 
 # range_shortening(9, 21)
 # range_shortening(1, "AUT")
