@@ -4,8 +4,10 @@
 
 {% block content %}
     <h1>Pass Types Stats</h1>
-    <table>
-        <!-- Assuming `dataframe` is passed from the Flask view function -->
-        {{ dataframe|safe }}
-    </table>
+    <div class="table-wrapper">
+        <table>
+            <!-- Assuming `dataframe` is passed from the Flask view function -->
+            {{ dataframe|safe }}
+        </table>
+    </div>
 {% endblock %}

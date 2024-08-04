@@ -1,5 +1,5 @@
 from flask import Flask, render_template, request
-import stat_scraper
+from stat_scraper import player_stat_display
 
 app = Flask(__name__)
 
@@ -11,33 +11,30 @@ def home():
 def player():
     return render_template('player_templates/player_stat_select.html')
 
-@app.route('/player_stat/<category>')
-def player_stats(category):
+@app.route('/player_stat/')
+def player_stat():
     category = request.args.get('category')
-    df = stat_scraper(category)
+    df = player_stat_display(category)
     df_html = df.to_html(classes='table table-striped', index=False)
-    if category == 'standard':
-        return render_template('player_templates/player_standard_stats.html', dataframe=df_html)
-    elif category == 'goalkeeping':
-        return render_template('player_templates/player_goalkeeping.html', dataframe=df_html)
-    elif category == 'advanced_goalkeeping':
-        return render_template('player_templates/player_advanced_goalkeeping.html', dataframe=df_html)
-    elif category == 'shooting':
-        return render_template('player_templates/player_shooting.html', dataframe=df_html)
-    elif category == 'passing':
-        return render_template('player_templates/player_passing.html', dataframe=df_html)
-    elif category == 'pass_types':
-        return render_template('player_templates/player_pass_types.html', dataframe=df_html)
-    elif category == 'goal_shot_creation':
-        return render_template('player_templates/player_goal_shot_creation.html', dataframe=df_html)
-    elif category == 'defensive_action':
-        return render_template('player_templates/player_defensive_action.html', dataframe=df_html)
-    elif category == 'possession':
-        return render_template('player_templates/player_possession.html', dataframe=df_html)
-    elif category == 'playing_time':
-        return render_template('player_templates/player_playing_time.html', dataframe=df_html)
-    elif category == 'misc_stats':
-        return render_template('player_templates/player_misc_stats.html', dataframe=df_html)
+    # Render the appropriate template based on the category
+    template_map = {
+        'stats': 'player_templates/player_standard_stats.html',
+        'keepers': 'player_templates/player_goalkeeping.html',
+        'keepersadv': 'player_templates/player_advanced_goalkeeping.html',
+        'shooting': 'player_templates/player_shooting.html',
+        'passing': 'player_templates/player_passing.html',
+        'pass_types': 'player_templates/player_pass_types.html',
+        'gca': 'player_templates/player_goal_shot_creation.html',
+        'defense': 'player_templates/player_defensive_action.html',
+        'possession': 'player_templates/player_possession.html',
+        'playingtime': 'player_templates/player_playing_time.html',
+        'misc': 'player_templates/player_misc_stats.html'
+    }
+
+    if category in template_map:
+        return render_template(template_map[category], dataframe=df_html)
+    else:
+        return "Invalid category", 404
 
 @app.route('/squad')
 def squad():

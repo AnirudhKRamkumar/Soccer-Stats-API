@@ -4,16 +4,15 @@ import pandas as pd
 
 def player_stat_display(selected_stat):
 # Construct the URL based on the selected statistic
-  url_df = f'https://fbref.com/en/comps/Big5/{selected_stat}/players/Big-5-European-Leagues-Stats'
+  url_df = f'https://fbref.com/en/comps/Big5/2023-2024/{selected_stat}/players/2023-2024-Big-5-European-Leagues-Stats'
 
   # Read the HTML table from the URL into a list of DataFrames and select the first DataFrame
   df = pd.read_html(url_df)[0]
-
   # Flatten multi-level column headers by joining them with a space and stripping any extra whitespace
   df.columns = [' '.join(col).strip() for col in df.columns]
   # Reset index to ensure it's a standard range index
   df = df.reset_index(drop=True)
-
+  
   # Rename columns to simplify the names by removing 'level_0' and keeping the last part
   new_columns = []
   for col in df.columns:
@@ -31,10 +30,11 @@ def player_stat_display(selected_stat):
 
   # Fill any NaN values with 0
   df = df.fillna(0)
-
   # Split the 'Pos' column into 'Position' and 'Position_2' based on character positions
+
   df['Position'] = df['Pos'].str[:2]
   df['Position_2'] = df['Pos'].str[3:]
+
 
   # Extract country code from 'Nation' column
   df['Nation'] = df['Nation'].str.split(' ').str.get(1)
