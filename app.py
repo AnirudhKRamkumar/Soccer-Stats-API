@@ -1,6 +1,6 @@
 from flask import Flask, render_template, request
 from stat_scraper import player_stat_display
-from cache import get_dataframe, set_dataframe
+import os
 
 app = Flask(__name__)
 
@@ -15,12 +15,11 @@ def player():
 @app.route('/player_stat/')
 def player_stat():
     category = request.args.get('category')
-    name = request.args.get('name')
-    df = get_dataframe(key)
-    if df is None:
+    name = request.args.get('name').lower()
+    if not os.path.isfile(f'templates/cached_stat_tables/{(name)}.html'):
         df = player_stat_display(category)
-        df_html = df.to_html(classes='table table-striped', index=False)
-    return render_template('player_templates/player_stats.html', dataframe=df_html, name=name)
+        df.to_html(f'templates/cached_stat_tables/{(name)}.html', classes='table table-striped', index=False)
+    return render_template('player_templates/player_stats.html', name=name, table_name=f'templates/cached_stat_tables/{name}.html')
 
 @app.route('/squad')
 def squad():
