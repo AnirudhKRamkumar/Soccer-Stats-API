@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Squad Stats</title>
+    <link rel="icon" href="{{ url_for('static', filename='favicon.ico') }}" type="image/x-icon"> <!-- Favicon link -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap">
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            font-family: 'Roboto', sans-serif;
+            background-color: #f0f0f0;
+        }
+        .center-section {
+            text-align: center;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .button-list {
+            list-style-type: none;
+            padding: 0;
+            margin: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .button-list li {
+            margin: 10px 0;
+        }
+        .button {
+            display: block;
+            width: 200px;
+            padding: 10px;
+            text-align: center;
+            background-color: #007bff;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 20px;
+            font-weight: 700;
+            transition: background-color 0.3s;
+        }
+        .button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <div class="center-section">
+        <h1>Squad Stats</h1>
+        <p>Select the category of stats you'd like to access:</p>
+        <ul class="button-list">
+            <li><a href="#" class="button">Standard Stats</a></li>
+            <li><a href="#" class="button">Goalkeeping</a></li>
+            <li><a href="#" class="button">Advanced Goalkeeping</a></li>
+            <li><a href="#" class="button">Shooting</a></li>
+            <li><a href="#" class="button">Passing</a></li>
+            <li><a href="#" class="button">Pass Types</a></li>
+            <li><a href="#" class="button">Goal and Shot Creation</a></li>
+            <li><a href="#" class="button">Defensive Action</a></li>
+            <li><a href="#" class="button">Possession</a></li>
+            <li><a href="#" class="button">Playing Time</a></li>
+            <li><a href="#" class="button">Misc. Stats</a></li>
+        </ul>
+    </div>
+</body>
+</html>
