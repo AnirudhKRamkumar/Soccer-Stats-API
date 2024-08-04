@@ -56,17 +56,17 @@
         <h1>Player Stats</h1>
         <p>Select the category of stats you'd like to access:</p>
         <ul class="button-list">
-            <li><a href="{{ url_for('player_standard_stats') }}" class="button">Standard Stats</a></li>
-            <li><a href="{{ url_for('player_goalkeeping') }}" class="button">Goalkeeping</a></li>
-            <li><a href="{{ url_for('player_advanced_goalkeeping') }}" class="button">Advanced Goalkeeping</a></li>
-            <li><a href="{{ url_for('player_shooting') }}" class="button">Shooting</a></li>
-            <li><a href="{{ url_for('player_passing') }}" class="button">Passing</a></li>
-            <li><a href="{{ url_for('player_pass_types') }}" class="button">Pass Types</a></li>
-            <li><a href="{{ url_for('player_goal_shot_creation') }}" class="button">Goal and Shot Creation</a></li>
-            <li><a href="{{ url_for('player_defensive_action') }}" class="button">Defensive Action</a></li>
-            <li><a href="{{ url_for('player_possession') }}" class="button">Possession</a></li>
-            <li><a href="{{ url_for('player_playing_time') }}" class="button">Playing Time</a></li>
-            <li><a href="{{ url_for('player_misc_stats') }}" class="button">Misc. Stats</a></li>            
+            <li><a href="{{ url_for('player_stat', category='stats') }}" class="button">Standard Stats</a></li>
+            <li><a href="{{ url_for('player_stat', category='keepers') }}" class="button">Goalkeeping</a></li>
+            <li><a href="{{ url_for('player_stat', category='keepersadv') }}" class="button">Advanced Goalkeeping</a></li>
+            <li><a href="{{ url_for('player_stat', category='shooting') }}" class="button">Shooting</a></li>
+            <li><a href="{{ url_for('player_stat', category='passing') }}" class="button">Passing</a></li>
+            <li><a href="{{ url_for('player_stat', category='pass_types') }}" class="button">Pass Types</a></li>
+            <li><a href="{{ url_for('player_stat', category='gca') }}" class="button">Goal and Shot Creation</a></li>
+            <li><a href="{{ url_for('player_stat', category='defense') }}" class="button">Defensive Action</a></li>
+            <li><a href="{{ url_for('player_stat', category='possession') }}" class="button">Possession</a></li>
+            <li><a href="{{ url_for('player_stat', category='playingtime') }}" class="button">Playing Time</a></li>
+            <li><a href="{{ url_for('player_stat', category='misc') }}" class="button">Misc. Stats</a></li>       
         </ul>
     </div>
 </body>
