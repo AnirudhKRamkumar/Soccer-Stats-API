@@ -9,4 +9,4 @@ A module that allows the user to request data from the FBRef website.
 ## Project Status
 - Requesting data from the FBRef website: 50%
 - Formatting data to send back to user: 25%
-- User queries: 0%
+- User queries: 10%
