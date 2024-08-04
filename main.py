@@ -61,14 +61,18 @@ df['League'] = df['League'].fillna('Bundesliga')
 # Print the first few rows of the processed DataFrame
 print(df.head())
 
-def range_shortening(column, condition):
+def range_shortening(column, condition, comparison=None):
   for row in df.iterrows():
     row = row[1]
     if column in range(len(row)):
       if isinstance(condition, int): 
         value = row[column]
         try:
+          if comparison == ">":
             if int(value) > condition:
+                print(row.to_string(), "\n")
+          elif comparison == '<':
+            if int(value) < condition:
                 print(row.to_string(), "\n")
         except ValueError:
             # Skip rows where conversion to integer fails
