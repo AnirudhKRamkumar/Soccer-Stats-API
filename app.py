@@ -1,5 +1,6 @@
 from flask import Flask, render_template, request
 from stat_scraper import player_stat_display
+from cache import get_dataframe, set_dataframe
 
 app = Flask(__name__)
 
@@ -14,27 +15,12 @@ def player():
 @app.route('/player_stat/')
 def player_stat():
     category = request.args.get('category')
-    df = player_stat_display(category)
-    df_html = df.to_html(classes='table table-striped', index=False)
-    # Render the appropriate template based on the category
-    template_map = {
-        'stats': 'player_templates/player_standard_stats.html',
-        'keepers': 'player_templates/player_goalkeeping.html',
-        'keepersadv': 'player_templates/player_advanced_goalkeeping.html',
-        'shooting': 'player_templates/player_shooting.html',
-        'passing': 'player_templates/player_passing.html',
-        'pass_types': 'player_templates/player_pass_types.html',
-        'gca': 'player_templates/player_goal_shot_creation.html',
-        'defense': 'player_templates/player_defensive_action.html',
-        'possession': 'player_templates/player_possession.html',
-        'playingtime': 'player_templates/player_playing_time.html',
-        'misc': 'player_templates/player_misc_stats.html'
-    }
-
-    if category in template_map:
-        return render_template(template_map[category], dataframe=df_html)
-    else:
-        return "Invalid category", 404
+    name = request.args.get('name')
+    df = get_dataframe(key)
+    if df is None:
+        df = player_stat_display(category)
+        df_html = df.to_html(classes='table table-striped', index=False)
+    return render_template('player_templates/player_stats.html', dataframe=df_html, name=name)
 
 @app.route('/squad')
 def squad():

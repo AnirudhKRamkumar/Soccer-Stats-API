@@ -57,7 +57,6 @@ def player_stat_display(selected_stat):
   df['League'] = df['League'].fillna('Bundesliga')
 
   # Print the first few rows of the processed DataFrame
-  print(df.head())
   
   return df
 
