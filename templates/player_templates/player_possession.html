@@ -1,0 +1,11 @@
+{% extends 'base.html' %}
+
+{% block title %}Possession Stats{% endblock %}
+
+{% block content %}
+    <h1>Possession Stats</h1>
+    <table>
+        <!-- Assuming `dataframe` is passed from the Flask view function -->
+        {{ dataframe|safe }}
+    </table>
+{% endblock %}

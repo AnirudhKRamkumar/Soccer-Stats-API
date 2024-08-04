@@ -59,9 +59,6 @@ def player_stat_display(selected_stat):
   # Print the first few rows of the processed DataFrame
   print(df.head())
   
-  # Export to HTML
-  df.to_html('dataframe.html')
-  
   return df
 
 
