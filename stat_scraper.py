@@ -4,6 +4,10 @@ import pandas as pd
 
 def player_stat_display(selected_stat, season):
 # Construct the URL based on the selected statistic
+  if int(season[0:4]) < 2017:
+    print("Sorry, but this stat wasn't tracked until the 2017-2018 season; only overall, goalkeeping, passing, shooting, and play time stats were tracked!")
+    return None
+    
   url_df = f'https://fbref.com/en/comps/Big5/{season}/{selected_stat}/players/{season}-Big-5-European-Leagues-Stats'
 
   # Read the HTML table from the URL into a list of DataFrames and select the first DataFrame
@@ -92,5 +96,5 @@ def range_trimming(dataframe, column, condition, comparison=None):
           continue
   print(trimmed)
 
-df = player_stat_display('stats', '2016-2017')
-# range_trimming(df, 1, "ESP")
+df = player_stat_display('stats', '2023-2024')
+range_trimming(df, 1, "ESP")
