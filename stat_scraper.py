@@ -2,9 +2,9 @@ import pandas as pd
 
 # Prompt user to input the desired statistic type
 
-def player_stat_display(selected_stat):
+def player_stat_display(selected_stat, season):
 # Construct the URL based on the selected statistic
-  url_df = f'https://fbref.com/en/comps/Big5/2023-2024/{selected_stat}/players/2023-2024-Big-5-European-Leagues-Stats'
+  url_df = f'https://fbref.com/en/comps/Big5/{season}/{selected_stat}/players/{season}-Big-5-European-Leagues-Stats'
 
   # Read the HTML table from the URL into a list of DataFrames and select the first DataFrame
   df = pd.read_html(url_df)[0]
@@ -58,11 +58,14 @@ def player_stat_display(selected_stat):
 
   # Print the first few rows of the processed DataFrame
   
+  print(df.head())
+  
   return df
 
 
-def range_shortening(df, column, condition, comparison=None):
-  for row in df.iterrows():
+def range_trimming(dataframe, column, condition, comparison=None):
+  trimmed = []
+  for row in dataframe.iterrows():
     row = row[1]
     if column in range(len(row)):
       if isinstance(condition, int): 
@@ -70,10 +73,12 @@ def range_shortening(df, column, condition, comparison=None):
         try:
           if comparison == ">":
             if int(value) > condition:
-                print(row.to_string(), "\n")
+              if value not in trimmed:
+                trimmed.append(row[0])
           elif comparison == '<':
             if int(value) < condition:
-                print(row.to_string(), "\n")
+              if value not in trimmed:
+                trimmed.append(row[0])
         except ValueError:
             # Skip rows where conversion to integer fails
             continue
@@ -81,6 +86,11 @@ def range_shortening(df, column, condition, comparison=None):
         value = row[column]
         try:
           if value == condition:
-            print(row.to_string(), "\n")
+            if row[0] not in trimmed:
+              trimmed.append(row[0])
         except ValueError:
           continue
+  print(trimmed)
+
+df = player_stat_display('stats', '2016-2017')
+# range_trimming(df, 1, "ESP")
