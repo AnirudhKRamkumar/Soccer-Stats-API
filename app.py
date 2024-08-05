@@ -16,10 +16,10 @@ def player():
 def player_stat():
     category = request.args.get('category')
     name = request.args.get('name').lower()
-    if not os.path.isfile(f'templates/cached_stat_tables/{(name)}.html'):
+    if not os.path.isfile(f'templates/cached_stat_tables/{name}.html'):
         df = player_stat_display(category)
-        df.to_html(f'templates/cached_stat_tables/{(name)}.html', classes='table table-striped', index=False)
-    return render_template('player_templates/player_stats.html', name=name, table_name=f'templates/cached_stat_tables/{name}.html')
+        df.to_html(f'templates/cached_stat_tables/player_{name.replace(" ", "_")}.html', classes='table table-striped', index=False)
+    return render_template('player_templates/player_stats.html', name=name.title(), table_name=f'cached_stat_tables/player_{name.replace(" ", "_")}.html')
 
 @app.route('/squad')
 def squad():
