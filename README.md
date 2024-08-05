@@ -14,6 +14,6 @@ A module that allows the user to request data from the FBRef website.
 Use ```pip install flask``` and ```pip install pandas``` to install both into your system. 
 
 ## Project Status
-- Requesting data from the FBRef website: 50%
-- Formatting data to send back to user: 25%
-- User queries: 10%
+- Requesting data from the FBRef website: 100%
+- Formatting data to send back to user: 100%
+
