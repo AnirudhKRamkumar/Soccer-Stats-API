@@ -35,12 +35,10 @@ def comp_stat_display(selected_stat="stats", season=None, comp='EUR'):
 
   # Construct the URL based on the selected statistic   
   url_df = f"https://fbref.com/en/comps/Big5/{season}/{selected_stat}/players/{season}-Big-5-European-Leagues-Stats"
-  print(f"Number of tables found: {len(pd.read_html(url_df))}")
 
   
   # Read the HTML table from the URL into a list of DataFrames and select the first DataFrame
   df = pd.read_html(url_df)[0]
-  df.to_html('hello.html')
   # Flatten multi-level column headers by joining them with a space and stripping any extra whitespace
   df.columns = [' '.join(col).strip() for col in df.columns]
   # Reset index to ensure it's a standard range index
@@ -80,7 +78,6 @@ def comp_stat_display(selected_stat="stats", season=None, comp='EUR'):
   # Drop unnecessary columns
   df = df.drop(columns=['League_', 'Comp', 'Rk', 'Pos', 'Matches'])
   df = df[df['Player'] != 'Player']
-  df = df.drop([0])
 
   # Replace position abbreviations with full position names
   df['Position'] = df['Position'].replace({'MF': 'Midfielder', 'DF': 'Defender', 'FW': 'Forward', 'GK': 'Goalkeeper'})
@@ -88,43 +85,21 @@ def comp_stat_display(selected_stat="stats", season=None, comp='EUR'):
 
   # Fill any remaining NaN values in 'League' column with 'Bundesliga'
   df['League'] = df['League'].fillna('Bundesliga')
-
-  a = range_trimming(df, -1, "Bundesliga")
-
-  # Print the first few rows of the processed DataFrame
   
-  print(a)
+  print(df.head())
   
   return df
 
 
 def range_trimming(dataframe, column, condition, comparison=None):
-  trimmed = []
-  for row in dataframe.iterrows():
-    row = row[1]
-    if abs(column) in range(len(row)):
-      if isinstance(condition, int): 
-        value = row[column]
-        try:
-          if comparison == ">":
-            if int(value) > condition:
-              if value not in trimmed:
-                trimmed.append(row[0])
-          elif comparison == '<':
-            if int(value) < condition:
-              if value not in trimmed:
-                trimmed.append(row[0])
-        except ValueError:
-            # Skip rows where conversion to integer fails
-            continue
-      elif isinstance(condition, str):
-        value = row[column]
-        try:
-          if value == condition:
-            if row[0] not in trimmed:
-              trimmed.append(row[0])
-        except ValueError:
-          continue
-  print(trimmed)
+  if isinstance(condition, int): 
+    if comparison == ">":
+      dataframe = dataframe[dataframe[column] > condition]
+    elif comparison == '<':
+      dataframe = dataframe[dataframe[column] < condition]
+  elif isinstance(condition, str):
+    dataframe = dataframe[dataframe[column] == condition]
+  print(dataframe.head())
+  return dataframe
 
 df = comp_stat_display()
