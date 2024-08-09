@@ -21,19 +21,14 @@ def comp_stat_display(selected_stat="stats", season=None, comp='EUR'):
       season = f"{current_season}-{current_season+1}"
 
   # Some stats weren't tracked until the 2017-2018 season, allow the function to be recalled
+  
+  """COME BACK TO THIS"""
+  
   if int(season[0:4]) < 2017 and selected_stat == "":
     print("Sorry, but this stat wasn't tracked until the 2017-2018 season; only overall, goalkeeping, passing, shooting, and play time stats were tracked!")
-    return None
- 
-  # Find out which competition the user wants to see by using the european_leagues list
-  for item in european_leagues:
-    if comp.upper() == item[1]:
-      comps = [item[2]]
-      break
+    return None 
 
-  #if "EUR" not in comp:
-
-  # Construct the URL based on the selected statistic   
+  # Construct the URL based on the selected statistic and season   
   url_df = f"https://fbref.com/en/comps/Big5/{season}/{selected_stat}/players/{season}-Big-5-European-Leagues-Stats"
 
   
@@ -85,6 +80,9 @@ def comp_stat_display(selected_stat="stats", season=None, comp='EUR'):
 
   # Fill any remaining NaN values in 'League' column with 'Bundesliga'
   df['League'] = df['League'].fillna('Bundesliga')
+  
+  #for item in european_leagues:
+    #if comp
   
   print(df.head())
   
