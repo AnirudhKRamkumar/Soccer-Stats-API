@@ -8,12 +8,12 @@ A module that allows the user to request data from the FBRef website.
 
 ## Prerequisites
 - Python 3.7 or better
-- Flask
 - pandas
 
-Use ```pip install flask``` and ```pip install pandas``` to install both into your system. 
+Use ```pip install pandas``` to install pandas into your system. 
 
 ## Project Status
-- Requesting data from the FBRef website: 100%
-- Formatting data to send back to user: 100%
-
+- Requesting data from the FBRef website: 75%
+- Formatting data to send back to user: 50%
+- 
+- Sorting mechanisms: 0%
