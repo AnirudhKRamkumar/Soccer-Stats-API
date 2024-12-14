@@ -37,11 +37,11 @@ def comp_stat_display(selected_stat="stats", season=None, comp='EUR', fa=None):
   
   df = pd.read_html(url_df, flavor='bs4')[0]
    
-  _dataframe_cleaning(df, comp)
+  df = dataframe_cleaning(df, comp)
   
   if comp != "EUR":
     df2 = pd.read_html(url_df, flavor='bs4')[1]
-    _dataframe_cleaning(df2, comp)
+    dataframe_cleaning(df2, comp)
     print(df.head())
     print(df2.head())
     if fa.lower() == "for":
@@ -91,7 +91,7 @@ def range_trimming(dataframe, column, condition, comparison=None):
   return dataframe
 
 
-def _dataframe_cleaning(df, comp):
+def dataframe_cleaning(df, comp):
   r"""
   Cleans and processes a pandas DataFrame by renaming columns, handling missing values, 
   and extracting or modifying certain data based on the competition type.
@@ -128,7 +128,6 @@ def _dataframe_cleaning(df, comp):
       new_columns.append(new_col)
   # Apply new column names to the DataFrame
   df.columns = new_columns
-
   # Fill any NaN values with 0
   df = df.fillna(0)
   # Split the 'Pos' column into 'Position' and 'Position_2' based on character positions
@@ -158,6 +157,8 @@ def _dataframe_cleaning(df, comp):
     df['League'] = df['League'].fillna('Bundesliga')
   else:
     df = df.drop(columns=['Pl'])
+  print(df.columns)
+  return df
   
   
 
