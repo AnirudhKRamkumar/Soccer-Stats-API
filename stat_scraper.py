@@ -1,4 +1,8 @@
 import pandas as pd
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 import tkinter as tk
 from pandastable import Table
 import time
@@ -15,7 +19,7 @@ european_leagues = [
     ("Big 5 European Leagues", "EUR", "Big5")
 ]
 
-def comp_stat_display(selected_stat="stats", season=None, comp='EUR', fa=None):
+def comp_stat_display(selected_stat="stats", season=None, comp='EUR', f_a_ind=None):
   
   # setting default arguments for 'season' because the conditions might change from the moment of initialization 
   if season is None:
@@ -32,24 +36,37 @@ def comp_stat_display(selected_stat="stats", season=None, comp='EUR', fa=None):
     if comp == item[1]:
       comps = item
 
+  driver = webdriver.Chrome()
+
   # Construct the URL based on the selected statistic and season   
   url_df = f"https://fbref.com/en/comps/{comps[2]}/{season}/{selected_stat}/players/{season}-{(comps[0].replace(' ', '-'))}-Stats"
-  
-  df = pd.read_html(url_df, flavor='bs4')[0]
    
-  df = dataframe_cleaning(df, comp)
+  driver.get(url_df)
   
-  if comp != "EUR":
-    df2 = pd.read_html(url_df, flavor='bs4')[1]
-    dataframe_cleaning(df2, comp)
-    print(df.head())
-    print(df2.head())
-    if fa.lower() == "for":
-      return df
-    elif fa.lower() == "against":
-      return df2
+  WebDriverWait(driver, 100).until(EC.presence_of_all_elements_located((By.ID, 'stats_possession')))
+  page_source = driver.page_source
+  tables = pd.read_html(page_source)
+  driver.quit()
    
-  print(df.head())
+  if f_a_ind.lower() == "individual":
+     # df = pd.read_html(url_df, attrs={"id": "stats_possession"})[0]
+     df = tables[11]
+     df = dataframe_cleaning(df, comp, "player")
+     print(df.head())
+  else:
+    df = pd.read_html(url_df, flavor='bs4')[0]
+   
+    df = dataframe_cleaning(df, comp)
+    
+    if comp != "EUR":
+      df2 = pd.read_html(url_df, flavor='bs4')[1]
+      df2 = dataframe_cleaning(df2, comp)
+      print(df.head())
+      print(df2.head())
+      if f_a_ind.lower() == "for":
+        return df
+      elif f_a_ind.lower() == "against":
+        return df2
   
   return df
 
@@ -91,7 +108,7 @@ def range_trimming(dataframe, column, condition, comparison=None):
   return dataframe
 
 
-def dataframe_cleaning(df, comp):
+def dataframe_cleaning(dataframe, comp, type = "squad"):
   r"""
   Cleans and processes a pandas DataFrame by renaming columns, handling missing values, 
   and extracting or modifying certain data based on the competition type.
@@ -106,17 +123,21 @@ def dataframe_cleaning(df, comp):
       Specifies the competition type. If "EUR", the function performs additional cleaning 
       and extraction of position and league data. Otherwise, a different cleaning process is applied.
 
+  type : str
+      Specifies whether the table displays squad stats or player stats. Both types require 
+      different aspects to be cleaned.
+
   Returns:
   --------
   pandas.DataFrame
       The cleaned DataFrame with modified column names, missing values handled, and unnecessary columns removed.
   """
   # Flatten multi-level column headers by joining them with a space and stripping any extra whitespace
-  df.columns = [' '.join(col).strip() for col in df.columns]
+  dataframe.columns = [' '.join(col).strip() for col in dataframe.columns]
   # Reset index to ensure it's a standard range index
-  df = df.reset_index(drop=True)
+  dataframe = dataframe.reset_index(drop=True)
   new_columns = []
-  for col in df.columns:
+  for col in dataframe.columns:
       if 'level_0' in col or 'Playing Time' in col or 'Progression' in col:
         new_col = col.split()[-1]  # takes the last name
       elif "Performance" in col:
@@ -124,41 +145,51 @@ def dataframe_cleaning(df, comp):
       elif "Per 90 Minutes" in col:
         new_col = col.split()[-1] + "/90 Min"
       else:
-        new_col = col
+        new_col = col.split()[1:]
+        if isinstance(new_col, list):
+          new_col = ' '.join(new_col)
       new_columns.append(new_col)
   # Apply new column names to the DataFrame
-  df.columns = new_columns
+  dataframe.columns = new_columns
   # Fill any NaN values with 0
-  df = df.fillna(0)
+  dataframe = dataframe.fillna(0)
   # Split the 'Pos' column into 'Position' and 'Position_2' based on character positions
 
-  if comp == "EUR":
-    df['Position'] = df['Pos'].str[:2]
-    df['Position_2'] = df['Pos'].str[3:]
+  if type.lower() == "squad":
+    if comp == "EUR":
+      dataframe['Position'] = dataframe['Pos'].str[:2]
+      dataframe['Position 2'] = dataframe['Pos'].str[3:]
 
 
-    # Extract country code from 'Nation' column
-    df['Nation'] = df['Nation'].str.split(' ').str.get(1)
+      # Extract country code from 'Nation' column
+      dataframe['Nation'] = dataframe['Nation'].str.split(' ').str.get(1)
 
-    # Extract league names from 'Comp' column
-    df['League'] = df['Comp'].str.split(' ').str.get(1)
-    df['League_'] = df['Comp'].str.split(' ').str.get(2)
-    df['League'] = df['League'] + ' ' + df['League_']
+      # Extract league names from 'Comp' column
+      dataframe['League'] = dataframe['Comp'].str.split(' ').str.get(1)
+      dataframe['League_'] = dataframe['Comp'].str.split(' ').str.get(2)
+      dataframe['League'] = dataframe['League'] + ' ' + dataframe['League_']
 
-    # Drop unnecessary columns
-    df = df.drop(columns=['League_', 'Comp', 'Rk', 'Pos', 'Matches'])
-    df = df[df['Player'] != 'Player']
+      # Drop unnecessary columns
+      dataframe = dataframe.drop(columns=['League_', 'Comp', 'Rk', 'Pos', 'Matches'])
+      dataframe = dataframe[dataframe['Player'] != 'Player']
 
-    # Replace position abbreviations with full position names
-    df['Position'] = df['Position'].replace({'MF': 'Midfielder', 'DF': 'Defender', 'FW': 'Forward', 'GK': 'Goalkeeper'})
-    df['Position_2'] = df['Position_2'].replace({'MF': 'Midfielder', 'DF': 'Defender', 'FW': 'Forward', 'GK': 'Goalkeeper'})
+      # Replace position abbreviations with full position names
+      dataframe['Position'] = dataframe['Position'].replace({'MF': 'Midfielder', 'DF': 'Defender', 'FW': 'Forward', 'GK': 'Goalkeeper'})
+      dataframe['Position 2'] = dataframe['Position 2'].replace({'MF': 'Midfielder', 'DF': 'Defender', 'FW': 'Forward', 'GK': 'Goalkeeper'})
 
-    # Fill any remaining NaN values in 'League' column with 'Bundesliga'
-    df['League'] = df['League'].fillna('Bundesliga')
+      # Fill any remaining NaN values in 'League' column with 'Bundesliga'
+      dataframe['League'] = dataframe['League'].fillna('Bundesliga')
+    else:
+      dataframe = dataframe.drop(columns=['Pl'])
   else:
-    df = df.drop(columns=['Pl'])
-  print(df.columns)
-  return df
+    dataframe['Position'] = dataframe['Pos'].str[:2]
+    dataframe['Position 2'] = dataframe['Pos'].str[3:]
+    
+    dataframe['Age'] = dataframe['Age'].apply(lambda x: f"{x.split('-')[0]} years, {x[3:]} days")
+    dataframe['Nation'] = dataframe['Nation'].str.split(' ').str.get(1)
+    dataframe = dataframe.drop(columns=['Born', 'Rk', 'Pos', 'Matches'])
+    dataframe = dataframe[dataframe['Player'] != 'Player']
+  return dataframe
   
   
 
@@ -168,7 +199,7 @@ root = tk.Tk()
 root.title("PandasTable Example")
 frame = tk.Frame(root)
 frame.pack(fill='both', expand=True)
-df = comp_stat_display(comp='ENG', fa="against")
+df = comp_stat_display(comp='ENG', selected_stat ="possession", f_a_ind="individual")
 pt = Table(frame, dataframe=df)
 pt.show()
 root.mainloop()
