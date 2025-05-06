@@ -193,7 +193,7 @@ def dataframe_cleaning(dataframe, comp, type = "squad"):
     
     if comp != "ENG":
       dataframe['Age'] = dataframe['Age'].astype(str)
-    dataframe['Age'] = dataframe['Age'].apply(lambda x: f"{x.split('-')[0]} years, {x[3:]} days")
+    dataframe['Age'] = dataframe['Age'].apply(lambda x: f"{x.split('-')[0]} years")
     dataframe['Nation'] = dataframe['Nation'].str.split(' ').str.get(1)
     
     dataframe = dataframe[dataframe['Player'] != 'Player']
@@ -215,3 +215,6 @@ def dataframe_name_replacement(dataframe):
     dataframe = dataframe.replace(f"{item[0]}", f"{item[1]}")
     dataframe = dataframe.replace(f"vs {item[0]}", f"vs {item[1]}")
   return dataframe
+
+df = comp_stat_display(comp='EUR', selected_stat="passing_types", season="2023-2024", f_a_ind="individual")
+
