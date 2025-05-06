@@ -10,7 +10,6 @@ from pandastable import Table
 import time
 
 options = Options()
-options.add_argument('--headless')  # Run in headless mode
 options.add_argument('--ignore-certificate-errors')  # Ignore SSL certificate errors
 options.add_argument('--incognito') 
 
@@ -75,6 +74,7 @@ def comp_stat_display(selected_stat="stats", season=None, comp='EUR', f_a_ind=No
       elif f_a_ind.lower() == "against":
         return df2
   
+  df.to_csv(f"{comp}_{selected_stat}_{season}_{f_a_ind}.csv", index=False)
   return df
 
 
@@ -204,7 +204,7 @@ def dataframe_cleaning(dataframe, comp, type = "squad"):
   for col in dataframe.columns:
     try:
       dataframe[col] = dataframe[col].astype(float)
-      dataframe[col] = dataframe[col].apply(lambda x: int(x) if x.is_integer() else x)
+      dataframe[col] = dataframe[col].apply(lambda x: int(x) if x % 1 == 0 else x)
     except ValueError:
       dataframe[col] = dataframe[col]
   return dataframe
@@ -215,13 +215,3 @@ def dataframe_name_replacement(dataframe):
     dataframe = dataframe.replace(f"{item[0]}", f"{item[1]}")
     dataframe = dataframe.replace(f"vs {item[0]}", f"vs {item[1]}")
   return dataframe
-
-# view the data
-"""root = tk.Tk()
-root.title("PandasTable Example")
-frame = tk.Frame(root)
-frame.pack(fill='both', expand=True)
-df = comp_stat_display(comp='FRA', selected_stat ="misc", f_a_ind="individual")
-pt = Table(frame, dataframe=df)
-pt.show()
-root.mainloop()"""

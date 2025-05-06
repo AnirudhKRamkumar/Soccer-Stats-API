@@ -1,0 +1,553 @@
+Player,Nation,Squad,Age,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,FK,PK,PKatt,xG,npxG,npxG/Sh,G-xG,np:G-xG,Position 1,Position 2
+Max Aarons,ENG,Bournemouth,"25 years, 075 days",1.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Defender,
+Joshua Acheampong,ENG,Chelsea,"18 years, 319 days",1.9,0,2,0,0.0,1.06,0.0,0.0,,8.9,0,0,0,0.2,0.2,0.11,-0.2,-0.2,Defender,
+Tyler Adams,USA,Bournemouth,"26 years, 034 days",13.8,0,6,1,16.7,0.43,0.07,0.0,0.0,18.7,0,0,0,1.2,1.2,0.19,-1.2,-1.2,Midfielder,
+Tosin Adarabioyo,ENG,Chelsea,"27 years, 177 days",12.1,1,11,2,18.2,0.91,0.16,0.09,0.5,12.3,0,0,0,0.9,0.9,0.08,0.1,0.1,Defender,
+Simon Adingra,CIV,Brighton,"23 years, 078 days",6.9,2,16,5,31.3,2.3,0.72,0.13,0.4,16.8,0,0,0,1.5,1.5,0.09,0.5,0.5,Forward,Midfielder
+Emmanuel Agbadou,CIV,Wolves,"27 years, 276 days",6.7,0,2,1,50.0,0.3,0.15,0.0,0.0,35.3,0,0,0,0.0,0.0,0.02,0.0,0.0,Defender,
+Asher Agbinone,ENG,Crystal Palace,"19 years, 173 days",0.1,0,1,0,0.0,15.0,0.0,0.0,,26.3,0,0,0,0.0,0.0,0.02,0.0,0.0,Midfielder,
+Ola Aina,NGA,Nottingham Forest,"28 years, 163 days",28.1,2,9,2,22.2,0.32,0.07,0.22,1.0,24.8,0,0,0,0.6,0.6,0.07,1.4,1.4,Defender,
+Rayan Aït-Nouri,ALG,Wolves,"23 years, 287 days",26.5,3,24,6,25.0,0.91,0.23,0.13,0.5,15.7,0,0,0,1.9,1.9,0.08,1.1,1.1,Defender,
+Kristoffer Ajer,NOR,Brentford,"26 years, 337 days",13.4,0,7,2,28.6,0.52,0.15,0.0,0.0,10.1,0,0,0,0.7,0.7,0.1,-0.7,-0.7,Defender,
+Manuel Akanji,SUI,Manchester City,"29 years, 244 days",19.0,0,10,1,10.0,0.53,0.05,0.0,0.0,16.3,0,0,0,0.7,0.7,0.07,-0.7,-0.7,Defender,
+Nathan Aké,NED,Manchester City,"30 years, 030 days",7.5,0,3,0,0.0,0.4,0.0,0.0,,10.0,0,0,0,0.2,0.2,0.07,-0.2,-0.2,Defender,
+Carlos Alcaraz,ARG,Southampton,"22 years, 110 days",0.1,0,1,1,100.0,9.0,9.0,0.0,0.0,9.7,0,0,0,0.1,0.1,0.07,-0.1,-0.1,Midfielder,
+Carlos Alcaraz,ARG,Everton,"22 years, 110 days",3.5,1,14,6,42.9,3.97,1.7,0.07,0.17,21.1,0,0,0,0.9,0.9,0.06,0.1,0.1,Midfielder,Forward
+Trent Alexander-Arnold,ENG,Liverpool,"26 years, 164 days",23.8,2,38,7,18.4,1.59,0.29,0.05,0.29,23.6,2,0,0,1.6,1.6,0.04,0.4,0.4,Defender,
+Alisson,BRA,Liverpool,"32 years, 169 days",20.9,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Goalkeeper,
+Miguel Almirón,PAR,Newcastle Utd,"31 years, 038 days",1.7,0,6,2,33.3,3.44,1.15,0.0,0.0,14.2,0,0,0,0.5,0.5,0.09,-0.5,-0.5,Forward,
+Edson Álvarez,MEX,West Ham,"27 years, 147 days",17.1,0,11,1,9.1,0.64,0.06,0.0,0.0,26.7,0,0,0,0.3,0.3,0.03,-0.3,-0.3,Midfielder,
+Will Alves,ENG,Leicester City,"20 years, 045 days",0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Forward,
+Harry Amass,ENG,Manchester Utd,"18 years, 004 days",0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Defender,
+Samuel Amo-Ameyaw,ENG,Southampton,"18 years, 245 days",0.3,0,1,0,0.0,3.21,0.0,0.0,,20.7,0,0,0,0.0,0.0,0.02,0.0,0.0,Forward,Defender
+Mathis Amougou,FRA,Chelsea,"19 years, 061 days",0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Midfielder,
+Joachim Andersen,DEN,Crystal Palace,"28 years, 293 days",1.0,0,1,1,100.0,1.0,1.0,0.0,0.0,25.2,0,0,0,0.0,0.0,0.04,0.0,0.0,Defender,
+Joachim Andersen,DEN,Fulham,"28 years, 293 days",19.7,0,12,2,16.7,0.61,0.1,0.0,0.0,18.2,0,0,0,0.4,0.4,0.04,-0.4,-0.4,Defender,
+Elliot Anderson,ENG,Nottingham Forest,"22 years, 134 days",22.0,1,29,5,17.2,1.32,0.23,0.03,0.2,20.2,0,0,0,1.4,1.4,0.05,-0.4,-0.4,Midfielder,
+André,BRA,Wolves,"23 years, 247 days",19.4,0,6,1,16.7,0.31,0.05,0.0,0.0,22.0,0,0,0,0.2,0.2,0.04,-0.2,-0.2,Midfielder,
+Michail Antonio,JAM,West Ham,"34 years, 357 days",9.3,1,19,4,21.1,2.05,0.43,0.05,0.25,12.6,0,0,0,2.2,2.2,0.12,-1.2,-1.2,Forward,
+Antony,BRA,Manchester Utd,"25 years, 024 days",1.6,0,6,3,50.0,3.83,1.91,0.0,0.0,15.8,0,0,0,1.0,1.0,0.17,-1.0,-1.0,Defender,Midfielder
+Julian Araujo,MEX,Bournemouth,"23 years, 219 days",3.9,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Defender,
+Cameron Archer,ENG,Southampton,"23 years, 242 days",13.1,2,25,8,32.0,1.91,0.61,0.08,0.25,13.0,0,0,1,4.9,4.1,0.16,-2.9,-2.1,Forward,
+Alphonse Areola,FRA,West Ham,"32 years, 021 days",17.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Goalkeeper,
+Joe Aribo,NGA,Southampton,"28 years, 242 days",20.3,3,16,7,43.8,0.79,0.35,0.19,0.43,13.8,0,0,0,2.7,2.7,0.17,0.3,0.3,Midfielder,Defender
+Adam Armstrong,ENG,Southampton,"28 years, 038 days",13.9,2,25,7,28.0,1.8,0.5,0.08,0.29,16.6,0,0,1,3.3,2.3,0.09,-1.3,-0.3,Forward,Midfielder
+Harrison Armstrong,ENG,Everton,"18 years, 060 days",0.5,0,1,0,0.0,1.87,0.0,0.0,,5.8,0,0,0,0.4,0.4,0.37,-0.4,-0.4,Midfielder,
+Kepa Arrizabalaga,ESP,Bournemouth,"30 years, 168 days",22.0,0,1,0,0.0,0.05,0.0,0.0,,9.7,0,0,0,0.1,0.1,0.06,-0.1,-0.1,Goalkeeper,
+Marco Asensio,ESP,Aston Villa,"29 years, 058 days",2.3,2,7,3,42.9,3.04,1.3,0.29,0.67,17.5,0,0,0,1.4,1.4,0.2,0.6,0.6,Midfielder,Forward
+Brandon Austin,ENG,Tottenham,"26 years, 071 days",1.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Goalkeeper,
+Taiwo Awoniyi,NGA,Nottingham Forest,"27 years, 220 days",3.1,1,9,4,44.4,2.91,1.29,0.11,0.25,12.6,0,0,0,2.0,2.0,0.22,-1.0,-1.0,Forward,
+Yasin Ayari,SWE,Brighton,"21 years, 165 days",16.0,0,18,5,27.8,1.12,0.31,0.0,0.0,20.1,1,0,0,1.5,1.5,0.08,-1.5,-1.5,Midfielder,
+Jordan Ayew,GHA,Crystal Palace,"33 years, 190 days",0.2,0,1,0,0.0,4.29,0.0,0.0,,5.5,0,0,0,0.5,0.5,0.46,-0.5,-0.5,Forward,Midfielder
+Jordan Ayew,GHA,Leicester City,"33 years, 190 days",14.4,4,25,7,28.0,1.73,0.48,0.12,0.43,18.4,3,1,1,2.8,2.0,0.08,1.2,1.0,Forward,Midfielder
+Benoît Badiashile,FRA,Chelsea,"23 years, 359 days",3.7,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Defender,
+Leon Bailey,JAM,Aston Villa,"27 years, 223 days",12.6,1,28,6,21.4,2.21,0.47,0.04,0.17,17.3,2,0,0,1.7,1.7,0.06,-0.7,-0.7,Forward,Midfielder
+Carlos Baleba,CMR,Brighton,"21 years, 076 days",21.6,2,36,9,25.0,1.66,0.42,0.06,0.22,24.6,1,0,0,2.9,2.9,0.08,-0.9,-0.9,Midfielder,
+Ross Barkley,ENG,Aston Villa,"31 years, 105 days",6.2,3,14,4,28.6,2.27,0.65,0.21,0.75,13.8,0,0,0,1.7,1.7,0.12,1.3,1.3,Midfielder,
+Harvey Barnes,ENG,Newcastle Utd,"27 years, 101 days",10.0,5,33,12,36.4,3.29,1.2,0.15,0.42,14.3,0,0,0,3.4,3.4,0.1,1.6,1.6,Forward,
+Calvin Bassey,NGA,Fulham,"25 years, 079 days",27.2,1,13,4,30.8,0.48,0.15,0.08,0.25,15.0,0,0,0,1.0,1.0,0.08,0.0,0.0,Defender,
+Jan Bednarek,POL,Southampton,"28 years, 342 days",21.1,2,5,2,40.0,0.24,0.09,0.4,1.0,16.0,0,0,0,0.7,0.7,0.13,1.3,1.3,Defender,
+Armel Bella Kotchap,GER,Southampton,"23 years, 099 days",3.7,0,1,0,0.0,0.27,0.0,0.0,,9.1,0,0,0,0.3,0.3,0.32,-0.3,-0.3,Defender,
+Jean-Ricner Bellegarde,FRA,Wolves,"26 years, 266 days",14.3,2,18,5,27.8,1.26,0.35,0.11,0.4,21.5,2,0,0,1.2,1.2,0.07,0.8,0.8,Midfielder,Forward
+Rodrigo Bentancur,URU,Tottenham,"27 years, 268 days",13.8,2,22,5,22.7,1.59,0.36,0.09,0.4,17.4,0,0,0,1.3,1.3,0.06,0.7,0.7,Midfielder,
+Sander Berge,NOR,Fulham,"27 years, 034 days",18.3,0,2,0,0.0,0.11,0.0,0.0,,7.6,0,0,0,0.2,0.2,0.08,-0.2,-0.2,Midfielder,
+Lucas Bergvall,SWE,Tottenham,"19 years, 046 days",10.4,0,10,1,10.0,0.96,0.1,0.0,0.0,21.0,0,0,0,0.5,0.5,0.05,-0.5,-0.5,Midfielder,
+Victor Bernth Kristiansen,DEN,Leicester City,"22 years, 094 days",25.3,0,3,0,0.0,0.12,0.0,0.0,,17.7,0,0,0,0.3,0.3,0.11,-0.3,-0.3,Defender,
+Beto,GNB,Everton,"27 years, 048 days",10.4,6,32,17,53.1,3.09,1.64,0.19,0.35,13.2,0,0,0,5.5,5.5,0.17,0.5,0.5,Forward,
+Philip Billing,DEN,Bournemouth,"28 years, 282 days",2.0,0,5,1,20.0,2.45,0.49,0.0,0.0,17.9,0,0,0,0.6,0.6,0.11,-0.6,-0.6,Midfielder,
+Yves Bissouma,MLI,Tottenham,"28 years, 202 days",12.7,2,9,3,33.3,0.71,0.24,0.22,0.67,22.3,0,0,0,0.6,0.6,0.06,1.4,1.4,Midfielder,
+Lamare Bogarde,NED,Aston Villa,"21 years, 074 days",5.3,0,1,1,100.0,0.19,0.19,0.0,0.0,20.2,0,0,0,0.0,0.0,0.04,0.0,0.0,Defender,Midfielder
+Willy Boly,CIV,Nottingham Forest,"34 years, 045 days",1.5,0,1,1,100.0,0.67,0.67,0.0,0.0,10.2,0,0,0,0.1,0.1,0.07,-0.1,-0.1,Defender,
+Sven Botman,NED,Newcastle Utd,"25 years, 067 days",2.5,0,1,0,0.0,0.4,0.0,0.0,,11.7,0,0,0,0.0,0.0,0.03,0.0,0.0,Defender,
+Jarrod Bowen,ENG,West Ham,"28 years, 090 days",24.3,7,64,26,40.6,2.63,1.07,0.09,0.23,18.1,0,1,1,6.3,5.5,0.09,0.7,0.5,Forward,Midfielder
+Conor Bradley,NIR,Liverpool,"21 years, 254 days",4.1,0,7,3,42.9,1.69,0.73,0.0,0.0,14.3,0,0,0,0.5,0.5,0.07,-0.5,-0.5,Defender,
+Jarrad Branthwaite,ENG,Everton,"22 years, 266 days",20.1,0,7,2,28.6,0.35,0.1,0.0,0.0,8.2,0,0,0,0.8,0.8,0.11,-0.8,-0.8,Defender,
+James Bree,ENG,Southampton,"27 years, 160 days",9.9,0,4,1,25.0,0.4,0.1,0.0,0.0,22.7,0,0,0,0.1,0.1,0.03,-0.1,-0.1,Defender,
+Ben Brereton,CHI,Southampton,"25 years, 336 days",5.0,0,11,1,9.1,2.2,0.2,0.0,0.0,17.3,0,0,0,0.9,0.9,0.08,-0.9,-0.9,Forward,
+Nathan Broadhead,WAL,Ipswich Town,"26 years, 349 days",5.1,0,9,5,55.6,1.78,0.99,0.0,0.0,16.3,0,0,0,1.1,1.1,0.12,-1.1,-1.1,Forward,Midfielder
+Armando Broja,ALB,Everton,"23 years, 191 days",1.9,0,4,0,0.0,2.11,0.0,0.0,,17.3,0,0,0,0.1,0.1,0.03,-0.1,-0.1,Forward,
+David Brooks,WAL,Bournemouth,"27 years, 255 days",8.2,2,21,10,47.6,2.57,1.22,0.1,0.2,16.5,0,0,0,2.2,2.2,0.1,-0.2,-0.2,Forward,
+Emi Buendía,ARG,Aston Villa,"28 years, 085 days",1.1,0,5,0,0.0,4.59,0.0,0.0,,19.1,1,0,0,0.7,0.7,0.13,-0.7,-0.7,Midfielder,Forward
+Santiago Bueno,URU,Wolves,"26 years, 131 days",16.9,0,6,3,50.0,0.35,0.18,0.0,0.0,14.0,0,0,0,0.4,0.4,0.07,-0.4,-0.4,Defender,
+Facundo Buonanotte,ARG,Leicester City,"20 years, 087 days",14.7,4,29,10,34.5,1.97,0.68,0.14,0.4,17.6,0,0,0,3.5,3.5,0.12,0.5,0.5,Forward,Midfielder
+Cameron Burgess,AUS,Ipswich Town,"29 years, 150 days",10.5,0,9,1,11.1,0.86,0.1,0.0,0.0,9.7,0,0,0,0.7,0.7,0.08,-0.7,-0.7,Defender,
+Dan Burn,ENG,Newcastle Utd,"32 years, 315 days",27.0,0,14,4,28.6,0.52,0.15,0.0,0.0,10.5,0,0,0,1.1,1.1,0.08,-1.1,-1.1,Defender,
+Wes Burns,WAL,Ipswich Town,"30 years, 117 days",10.3,0,7,1,14.3,0.68,0.1,0.0,0.0,18.3,0,0,0,0.5,0.5,0.07,-0.5,-0.5,Forward,Defender
+Moisés Caicedo,ECU,Chelsea,"23 years, 138 days",28.2,1,14,3,21.4,0.5,0.11,0.07,0.33,24.8,0,0,0,0.6,0.6,0.05,0.4,0.4,Midfielder,
+Tom Cairney,SCO,Fulham,"34 years, 059 days",4.9,1,4,1,25.0,0.82,0.21,0.25,1.0,23.5,1,0,0,0.1,0.1,0.04,0.9,0.9,Midfielder,
+Jens Cajuste,SWE,Ipswich Town,"25 years, 222 days",15.9,1,7,1,14.3,0.44,0.06,0.14,1.0,21.7,0,0,0,0.3,0.3,0.04,0.7,0.7,Midfielder,
+Riccardo Calafiori,ITA,Arsenal,"22 years, 305 days",10.3,2,10,6,60.0,0.97,0.58,0.2,0.33,14.1,0,0,0,0.9,0.9,0.09,1.1,1.1,Defender,
+Dominic Calvert-Lewin,ENG,Everton,"28 years, 004 days",17.5,3,46,17,37.0,2.63,0.97,0.07,0.18,12.3,0,0,0,6.1,6.1,0.13,-3.1,-3.1,Forward,
+Diego Carlos,BRA,Aston Villa,"32 years, 005 days",9.2,0,4,1,25.0,0.43,0.11,0.0,0.0,6.7,0,0,0,0.6,0.6,0.16,-0.6,-0.6,Defender,
+Fabio Carvalho,POR,Brentford,"22 years, 202 days",5.1,2,12,5,41.7,2.37,0.99,0.17,0.4,14.7,0,0,0,2.5,2.5,0.21,-0.5,-0.5,Forward,Midfielder
+Casemiro,BRA,Manchester Utd,"33 years, 025 days",12.5,1,23,6,26.1,1.84,0.48,0.04,0.17,19.8,0,0,0,1.3,1.3,0.06,-0.3,-0.3,Midfielder,
+Kaelan Casey,ENG,West Ham,"20 years, 143 days",0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Defender,
+Matty Cash,POL,Aston Villa,"27 years, 225 days",15.5,1,7,4,57.1,0.45,0.26,0.14,0.25,17.5,0,0,0,0.2,0.2,0.03,0.8,0.8,Defender,Forward
+Timothy Castagne,BEL,Fulham,"29 years, 105 days",14.9,0,8,3,37.5,0.54,0.2,0.0,0.0,14.0,0,0,0,0.4,0.4,0.05,-0.4,-0.4,Defender,
+Trevoh Chalobah,ENG,Crystal Palace,"25 years, 258 days",11.8,3,11,4,36.4,0.93,0.34,0.27,0.75,15.1,0,0,0,1.2,1.2,0.11,1.8,1.8,Defender,
+Trevoh Chalobah,ENG,Chelsea,"25 years, 258 days",3.3,0,3,0,0.0,0.91,0.0,0.0,,9.5,0,0,0,0.2,0.2,0.07,-0.2,-0.2,Defender,
+Conor Chaplin,ENG,Ipswich Town,"28 years, 032 days",6.8,1,12,3,25.0,1.76,0.44,0.08,0.33,18.3,0,0,0,1.2,1.2,0.1,-0.2,-0.2,Midfielder,Forward
+Youssef Chermiti,POR,Everton,"20 years, 300 days",0.1,0,2,1,50.0,15.0,7.5,0.0,0.0,12.7,0,0,0,0.1,0.1,0.03,-0.1,-0.1,Forward,
+Federico Chiesa,ITA,Liverpool,"27 years, 146 days",0.3,0,2,1,50.0,6.43,3.21,0.0,0.0,21.8,0,0,0,0.2,0.2,0.08,-0.2,-0.2,Forward,
+Ben Chilwell,ENG,Crystal Palace,"28 years, 089 days",0.6,0,1,1,100.0,1.76,1.76,0.0,0.0,23.0,0,0,0,0.0,0.0,0.05,0.0,0.0,Defender,Midfielder
+Chiquinho,POR,Wolves,"25 years, 043 days",0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Midfielder,
+Hamza Choudhury,ENG,Leicester City,"27 years, 170 days",1.5,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Midfielder,Defender
+Ryan Christie,SCO,Bournemouth,"30 years, 026 days",22.9,2,32,11,34.4,1.4,0.48,0.06,0.18,19.6,0,0,0,1.8,1.8,0.06,0.2,0.2,Midfielder,
+Harry Clarke,ENG,Ipswich Town,"24 years, 018 days",4.2,0,1,1,100.0,0.24,0.24,0.0,0.0,4.5,0,0,0,0.1,0.1,0.08,-0.1,-0.1,Defender,
+Jack Clarke,ENG,Ipswich Town,"24 years, 117 days",9.7,0,13,2,15.4,1.34,0.21,0.0,0.0,18.5,0,0,0,0.9,0.9,0.07,-0.9,-0.9,Forward,Midfielder
+Nathaniel Clyne,ENG,Crystal Palace,"33 years, 349 days",4.4,0,1,0,0.0,0.23,0.0,0.0,,32.3,0,0,0,0.0,0.0,0.01,0.0,0.0,Defender,Midfielder
+Conor Coady,ENG,Leicester City,"32 years, 023 days",10.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Defender,
+Séamus Coleman,IRL,Everton,"36 years, 160 days",2.2,0,1,1,100.0,0.46,0.46,0.0,0.0,10.5,0,0,0,0.6,0.6,0.57,-0.6,-0.6,Defender,
+Nathan Collins,IRL,Brentford,"23 years, 324 days",29.0,2,15,5,33.3,0.52,0.17,0.13,0.4,11.2,0,0,0,2.3,2.3,0.15,-0.3,-0.3,Defender,
+Toby Collyer,ENG,Manchester Utd,"21 years, 076 days",2.0,0,1,0,0.0,0.5,0.0,0.0,,6.2,0,0,0,0.2,0.2,0.17,-0.2,-0.2,Midfielder,
+Levi Colwill,ENG,Chelsea,"22 years, 022 days",27.0,1,10,2,20.0,0.37,0.07,0.1,0.5,8.8,0,0,0,0.7,0.7,0.07,0.3,0.3,Defender,
+Lewis Cook,ENG,Bournemouth,"28 years, 045 days",26.6,1,11,3,27.3,0.41,0.11,0.09,0.33,24.8,1,0,0,0.6,0.6,0.06,0.4,0.4,Midfielder,Defender
+Maxwel Cornet,CIV,Southampton,"28 years, 174 days",0.8,0,1,0,0.0,1.25,0.0,0.0,,18.8,0,0,0,0.2,0.2,0.16,-0.2,-0.2,Forward,
+Vladimír Coufal,CZE,West Ham,"32 years, 210 days",8.2,0,4,1,25.0,0.49,0.12,0.0,0.0,16.7,0,0,0,0.2,0.2,0.05,-0.2,-0.2,Defender,
+Woyo Coulibaly,FRA,Leicester City,"25 years, 304 days",1.2,0,2,1,50.0,1.65,0.83,0.0,0.0,19.4,0,0,0,0.0,0.0,0.02,0.0,0.0,Defender,
+Aaron Cresswell,ENG,West Ham,"35 years, 095 days",6.0,0,3,0,0.0,0.5,0.0,0.0,,29.8,2,0,0,0.1,0.1,0.04,-0.1,-0.1,Defender,
+Marc Cucurella,ESP,Chelsea,"26 years, 241 days",25.0,4,17,7,41.2,0.68,0.28,0.24,0.57,16.1,0,0,0,2.2,2.2,0.13,1.8,1.8,Defender,
+Jorge Cuenca,ESP,Fulham,"25 years, 123 days",1.9,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Defender,
+Matheus Cunha,BRA,Wolves,"25 years, 297 days",23.8,13,86,35,40.7,3.61,1.47,0.15,0.37,20.6,10,0,0,6.7,6.7,0.08,6.3,6.3,Midfielder,Forward
+Patson Daka,ZAM,Leicester City,"26 years, 162 days",5.1,1,11,2,18.2,2.14,0.39,0.09,0.5,16.7,0,0,0,0.8,0.8,0.07,0.2,0.2,Forward,Midfielder
+Diogo Dalot,POR,Manchester Utd,"26 years, 002 days",27.6,0,22,5,22.7,0.8,0.18,0.0,0.0,16.0,0,0,0,1.9,1.9,0.09,-1.9,-1.9,Defender,
+Mikkel Damsgaard,DEN,Brentford,"24 years, 260 days",24.6,2,27,7,25.9,1.1,0.28,0.07,0.29,16.7,2,0,0,2.3,2.3,0.09,-0.3,-0.3,Midfielder,Forward
+Danilo,BRA,Nottingham Forest,"23 years, 325 days",1.9,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Midfielder,
+Jayden Danns,ENG,Liverpool,"19 years, 063 days",0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Midfielder,
+Kevin Danso,AUT,Tottenham,"26 years, 182 days",3.9,0,4,2,50.0,1.04,0.52,0.0,0.0,11.3,0,0,0,0.3,0.3,0.09,-0.3,-0.3,Defender,
+Ben Davies,WAL,Tottenham,"31 years, 330 days",8.0,0,3,1,33.3,0.37,0.12,0.0,0.0,14.2,0,0,0,0.2,0.2,0.06,-0.2,-0.2,Defender,
+Leif Davis,ENG,Ipswich Town,"25 years, 067 days",27.3,1,14,2,14.3,0.51,0.07,0.07,0.5,20.4,2,0,0,0.9,0.9,0.06,0.1,0.1,Defender,
+Craig Dawson,ENG,Wolves,"34 years, 318 days",10.8,0,5,1,20.0,0.46,0.09,0.0,0.0,8.5,0,0,0,0.5,0.5,0.1,-0.5,-0.5,Defender,
+Kevin De Bruyne,BEL,Manchester City,"33 years, 265 days",12.3,2,37,9,24.3,3.02,0.73,0.05,0.22,22.5,5,0,0,2.6,2.6,0.07,-0.6,-0.6,Midfielder,
+Liam Delap,ENG,Ipswich Town,"22 years, 040 days",24.1,10,56,24,42.9,2.32,0.99,0.14,0.33,16.1,0,2,2,8.2,6.6,0.12,1.8,1.4,Forward,
+Sepp van den Berg,NED,Brentford,"23 years, 090 days",19.7,0,12,4,33.3,0.61,0.2,0.0,0.0,11.8,0,0,0,0.8,0.8,0.07,-0.8,-0.8,Defender,
+Justin Devenny,NIR,Crystal Palace,"21 years, 160 days",3.5,1,6,3,50.0,1.7,0.85,0.17,0.33,22.2,1,0,0,0.5,0.5,0.08,0.5,0.5,Midfielder,
+Kiernan Dewsbury-Hall,ENG,Chelsea,"26 years, 195 days",2.2,0,1,0,0.0,0.45,0.0,0.0,,7.8,0,0,0,0.2,0.2,0.22,-0.2,-0.2,Midfielder,Forward
+Amad Diallo,CIV,Manchester Utd,"22 years, 252 days",17.7,6,40,13,32.5,2.26,0.73,0.15,0.46,17.7,0,0,0,4.1,4.1,0.1,1.9,1.9,Forward,Midfielder
+Rúben Dias,POR,Manchester City,"27 years, 310 days",16.2,0,15,4,26.7,0.92,0.25,0.0,0.0,19.5,0,0,0,1.3,1.3,0.08,-1.3,-1.3,Defender,
+Luis Díaz,COL,Liverpool,"28 years, 066 days",20.6,9,54,23,42.6,2.63,1.12,0.17,0.39,13.9,0,0,0,7.6,7.6,0.14,1.4,1.4,Forward,
+Tyler Dibling,ENG,Southampton,"19 years, 008 days",17.1,2,27,9,33.3,1.58,0.53,0.07,0.22,19.7,0,0,0,2.4,2.4,0.09,-0.4,-0.4,Forward,Midfielder
+Lucas Digne,FRA,Aston Villa,"31 years, 243 days",22.9,0,13,3,23.1,0.57,0.13,0.0,0.0,22.7,5,0,0,0.8,0.8,0.06,-0.8,-0.8,Defender,
+Issa Diop,FRA,Fulham,"28 years, 070 days",14.0,0,5,2,40.0,0.36,0.14,0.0,0.0,10.7,0,0,0,0.5,0.5,0.11,-0.5,-0.5,Defender,
+Axel Disasi,FRA,Aston Villa,"27 years, 009 days",4.0,0,1,0,0.0,0.25,0.0,0.0,,7.7,0,0,0,0.1,0.1,0.07,-0.1,-0.1,Defender,
+Axel Disasi,FRA,Chelsea,"27 years, 009 days",4.0,1,2,1,50.0,0.49,0.25,0.5,1.0,12.3,0,0,0,0.3,0.3,0.14,0.7,0.7,Defender,
+Roman Dixon,ENG,Everton,"20 years, 084 days",1.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Defender,
+Nasser Djiga,BFA,Wolves,"22 years, 125 days",0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Defender,
+Matt Doherty,IRL,Wolves,"33 years, 063 days",17.9,2,9,3,33.3,0.5,0.17,0.22,0.67,11.3,0,0,0,1.0,1.0,0.11,1.0,1.0,Defender,
+Jeremy Doku,BEL,Manchester City,"22 years, 297 days",12.9,3,23,9,39.1,1.78,0.7,0.13,0.33,18.3,0,0,0,1.0,1.0,0.04,2.0,2.0,Forward,Midfielder
+Nicolás Domínguez,ARG,Nottingham Forest,"26 years, 265 days",15.5,0,15,6,40.0,0.97,0.39,0.0,0.0,18.3,0,0,0,1.3,1.3,0.09,-1.3,-1.3,Midfielder,Forward
+Patrick Dorgu,DEN,Manchester Utd,"20 years, 145 days",2.5,0,2,1,50.0,0.81,0.41,0.0,0.0,17.6,0,0,0,0.1,0.1,0.04,-0.1,-0.1,Defender,
+Alfie Dorrington,ENG,Tottenham,"19 years, 334 days",0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Defender,
+Abdoulaye Doucouré,MLI,Everton,"32 years, 078 days",22.0,2,23,6,26.1,1.05,0.27,0.09,0.33,13.7,0,0,0,3.2,3.2,0.14,-1.2,-1.2,Midfielder,
+Cheick Doucouré,MLI,Crystal Palace,"25 years, 071 days",5.0,0,7,0,0.0,1.39,0.0,0.0,,20.6,0,0,0,0.4,0.4,0.06,-0.4,-0.4,Midfielder,
+Flynn Downes,ENG,Southampton,"26 years, 059 days",16.9,1,9,3,33.3,0.53,0.18,0.11,0.33,17.6,0,0,0,0.6,0.6,0.07,0.4,0.4,Midfielder,
+Tommy Doyle,ENG,Wolves,"23 years, 154 days",5.4,0,9,2,22.2,1.66,0.37,0.0,0.0,24.5,1,0,0,0.6,0.6,0.06,-0.6,-0.6,Midfielder,
+Radu Drăgușin,ROU,Tottenham,"23 years, 045 days",13.9,0,5,1,20.0,0.36,0.07,0.0,0.0,12.7,0,0,0,0.1,0.1,0.02,-0.1,-0.1,Defender,
+Martin Dúbravka,SVK,Newcastle Utd,"36 years, 064 days",10.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Goalkeeper,
+Lewis Dunk,ENG,Brighton,"33 years, 119 days",17.4,0,10,2,20.0,0.58,0.12,0.0,0.0,13.4,1,0,0,0.7,0.7,0.07,-0.7,-0.7,Defender,
+Jáder Durán,COL,Aston Villa,"21 years, 097 days",7.1,7,31,15,48.4,4.37,2.12,0.23,0.47,15.6,0,0,0,4.9,4.9,0.16,2.1,2.1,Forward,
+Ederson,BRA,Manchester City,"31 years, 215 days",19.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Goalkeeper,
+George Edmundson,ENG,Ipswich Town,"27 years, 201 days",0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Defender,
+Odsonne Édouard,FRA,Crystal Palace,"27 years, 063 days",1.3,0,5,1,20.0,3.91,0.78,0.0,0.0,20.9,0,0,0,0.4,0.4,0.08,-0.4,-0.4,Midfielder,Forward
+Odsonne Édouard,FRA,Leicester City,"27 years, 063 days",0.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Forward,
+Samuel Edozie,ENG,Southampton,"22 years, 051 days",0.7,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Defender,Forward
+Ronnie Edwards,ENG,Southampton,"21 years, 357 days",0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Defender,
+Anthony Elanga,SWE,Nottingham Forest,"22 years, 327 days",20.5,5,33,15,45.5,1.61,0.73,0.15,0.33,16.8,4,0,0,3.7,3.7,0.11,1.3,1.3,Forward,Midfielder
+Harvey Elliott,ENG,Liverpool,"21 years, 350 days",1.4,0,6,1,16.7,4.22,0.7,0.0,0.0,16.5,0,0,0,0.2,0.2,0.03,-0.2,-0.2,Midfielder,Forward
+Yunus Emre Konak,TUR,Brentford,"19 years, 069 days",0.3,0,1,0,0.0,2.9,0.0,0.0,,21.4,0,0,0,0.2,0.2,0.15,-0.2,-0.2,Forward,Midfielder
+Julio Enciso,PAR,Ipswich Town,"21 years, 056 days",3.0,0,12,5,41.7,4.01,1.67,0.0,0.0,24.3,1,0,0,0.6,0.6,0.05,-0.6,-0.6,Midfielder,Forward
+Julio Enciso,PAR,Brighton,"21 years, 056 days",3.3,0,20,11,55.0,6.12,3.37,0.0,0.0,21.3,1,0,0,1.0,1.0,0.05,-1.0,-1.0,Midfielder,Forward
+Wataru Endo,JPN,Liverpool,"32 years, 039 days",1.6,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Midfielder,
+Christian Eriksen,DEN,Manchester Utd,"33 years, 034 days",8.7,0,6,0,0.0,0.69,0.0,0.0,,25.0,0,0,0,0.2,0.2,0.03,-0.2,-0.2,Midfielder,
+Romain Esse,ENG,Crystal Palace,"19 years, 311 days",0.1,1,1,1,100.0,11.25,11.25,1.0,1.0,2.8,0,0,0,0.3,0.3,0.32,0.7,0.7,Midfielder,
+Pervis Estupiñán,ECU,Brighton,"27 years, 058 days",18.8,1,15,5,33.3,0.8,0.27,0.07,0.2,25.6,3,0,0,0.6,0.6,0.04,0.4,0.4,Defender,
+Evanilson,BRA,Bournemouth,"25 years, 165 days",17.2,6,49,24,49.0,2.86,1.4,0.12,0.25,13.6,0,0,1,7.9,7.1,0.14,-1.9,-1.1,Forward,
+Jonny Evans,NIR,Manchester Utd,"37 years, 076 days",3.2,0,1,0,0.0,0.31,0.0,0.0,,8.4,0,0,0,0.1,0.1,0.1,-0.1,-0.1,Defender,
+Eberechi Eze,ENG,Crystal Palace,"26 years, 264 days",21.4,2,83,21,25.3,3.88,0.98,0.02,0.1,21.1,13,0,0,6.1,6.1,0.07,-4.1,-4.1,Midfielder,Forward
+Łukasz Fabiański,POL,West Ham,"39 years, 336 days",11.9,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Goalkeeper,
+Wout Faes,BEL,Leicester City,"26 years, 351 days",23.3,1,10,1,10.0,0.43,0.04,0.1,1.0,10.5,0,0,0,1.2,1.2,0.12,-0.2,-0.2,Defender,
+Abdul Fatawu Issahaku,GHA,Leicester City,"21 years, 012 days",6.4,0,13,5,38.5,2.02,0.78,0.0,0.0,31.2,0,0,0,0.4,0.4,0.03,-0.4,-0.4,Forward,
+João Félix,POR,Chelsea,"25 years, 130 days",4.1,1,20,5,25.0,4.88,1.22,0.05,0.2,15.9,0,0,0,2.2,2.2,0.11,-1.2,-1.2,Forward,Midfielder
+Evan Ferguson,IRL,West Ham,"20 years, 152 days",1.1,0,4,1,25.0,3.79,0.95,0.0,0.0,19.2,0,0,0,0.2,0.2,0.06,-0.2,-0.2,Forward,
+Evan Ferguson,IRL,Brighton,"20 years, 152 days",2.7,1,7,2,28.6,2.56,0.73,0.14,0.5,19.2,1,0,0,0.5,0.5,0.08,0.5,0.5,Forward,
+Bruno Fernandes,POR,Manchester Utd,"30 years, 193 days",26.4,8,72,21,29.2,2.73,0.8,0.07,0.24,21.6,10,3,3,8.5,6.2,0.09,-0.5,-1.2,Midfielder,
+Mateus Fernandes,POR,Southampton,"20 years, 253 days",23.8,1,29,11,37.9,1.22,0.46,0.03,0.09,17.8,3,0,0,3.1,3.1,0.11,-2.1,-2.1,Midfielder,
+Enzo Fernández,ARG,Chelsea,"24 years, 062 days",23.8,4,39,14,35.9,1.64,0.59,0.1,0.29,18.3,2,0,0,4.4,4.4,0.11,-0.4,-0.4,Midfielder,
+Mark Flekken,NED,Brentford,"31 years, 280 days",27.4,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Goalkeeper,
+Phil Foden,ENG,Manchester City,"24 years, 296 days",18.1,7,50,16,32.0,2.76,0.88,0.14,0.44,18.6,2,0,0,4.9,4.9,0.1,2.1,2.1,Midfielder,Forward
+Wesley Fofana,FRA,Chelsea,"24 years, 093 days",13.0,0,3,0,0.0,0.23,0.0,0.0,,10.6,0,0,0,0.4,0.4,0.13,-0.4,-0.4,Defender,
+Carlos Forbs,POR,Wolves,"21 years, 001 days",2.6,0,2,0,0.0,0.76,0.0,0.0,,19.1,0,0,0,0.1,0.1,0.07,-0.1,-0.1,Midfielder,Forward
+Fraser Forster,ENG,Tottenham,"37 years, 003 days",7.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Goalkeeper,
+Ryan Fraser,SCO,Southampton,"31 years, 024 days",3.4,0,1,1,100.0,0.29,0.29,0.0,0.0,31.6,0,0,0,0.0,0.0,0.03,0.0,0.0,Forward,Defender
+Niclas Füllkrug,GER,West Ham,"32 years, 039 days",4.1,2,8,3,37.5,1.95,0.73,0.25,0.67,10.3,0,0,0,1.4,1.4,0.18,0.6,0.6,Forward,
+Cody Gakpo,NED,Liverpool,"25 years, 317 days",15.7,8,44,17,38.6,2.81,1.08,0.18,0.47,15.4,0,0,0,6.0,6.0,0.14,2.0,2.0,Forward,
+Idrissa Gana Gueye,SEN,Everton,"35 years, 175 days",25.2,0,24,4,16.7,0.95,0.16,0.0,0.0,25.2,0,0,0,1.0,1.0,0.04,-1.0,-1.0,Midfielder,
+Andrés García,ESP,Aston Villa,"22 years, 041 days",3.0,0,2,0,0.0,0.67,0.0,0.0,,26.6,0,0,0,0.0,0.0,0.02,0.0,0.0,Defender,Midfielder
+Alejandro Garnacho,ARG,Manchester Utd,"20 years, 262 days",18.2,4,62,25,40.3,3.4,1.37,0.06,0.16,16.6,0,0,0,5.7,5.7,0.09,-1.7,-1.7,Midfielder,Forward
+James Garner,ENG,Everton,"24 years, 007 days",9.6,0,5,1,20.0,0.52,0.1,0.0,0.0,26.2,1,0,0,0.1,0.1,0.03,-0.1,-0.1,Midfielder,Defender
+Tyrique George,ENG,Chelsea,"19 years, 044 days",1.0,0,2,0,0.0,2.02,0.0,0.0,,11.9,0,0,0,0.1,0.1,0.07,-0.1,-0.1,Forward,
+Morgan Gibbs-White,ENG,Nottingham Forest,"25 years, 052 days",22.4,5,43,16,37.2,1.92,0.71,0.12,0.31,16.0,3,0,0,3.9,3.9,0.09,1.1,1.1,Midfielder,
+Billy Gilmour,SCO,Brighton,"23 years, 282 days",1.1,0,1,0,0.0,0.92,0.0,0.0,,25.5,1,0,0,0.1,0.1,0.08,-0.1,-0.1,Midfielder,
+Ben Godfrey,ENG,Ipswich Town,"27 years, 064 days",1.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Defender,
+Martial Godo,ENG,Fulham,"22 years, 006 days",0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Forward,
+João Gomes,BRA,Wolves,"24 years, 036 days",25.0,3,25,7,28.0,1.0,0.28,0.12,0.43,17.0,0,0,0,2.3,2.3,0.09,0.7,0.7,Midfielder,
+Rodrigo Gomes,POR,Wolves,"21 years, 256 days",6.3,1,4,2,50.0,0.63,0.32,0.25,0.5,15.9,0,0,0,0.4,0.4,0.09,0.6,0.6,Defender,Forward
+Toti Gomes,POR,Wolves,"26 years, 063 days",20.0,0,3,0,0.0,0.15,0.0,0.0,,20.0,0,0,0,0.1,0.1,0.02,-0.1,-0.1,Defender,
+Diego Gómez,PAR,Brighton,"21 years, 358 days",2.8,0,3,0,0.0,1.06,0.0,0.0,,20.3,1,0,0,0.3,0.3,0.11,-0.3,-0.3,Midfielder,
+Joe Gomez,ENG,Liverpool,"27 years, 301 days",5.8,0,3,2,66.7,0.52,0.35,0.0,0.0,11.9,0,0,0,0.3,0.3,0.11,-0.3,-0.3,Defender,
+Nicolás González,ESP,Manchester City,"23 years, 076 days",4.3,0,6,0,0.0,1.38,0.0,0.0,,22.0,0,0,0,0.2,0.2,0.04,-0.2,-0.2,Midfielder,
+Anthony Gordon,ENG,Newcastle Utd,"24 years, 024 days",23.4,6,52,15,28.8,2.22,0.64,0.1,0.33,16.2,1,1,2,7.8,6.3,0.12,-1.8,-1.3,Forward,
+Ryan Gravenberch,NED,Liverpool,"22 years, 308 days",27.5,0,13,3,23.1,0.47,0.11,0.0,0.0,23.5,0,0,0,0.9,0.9,0.07,-0.9,-0.9,Midfielder,
+Archie Gray,ENG,Tottenham,"19 years, 008 days",13.8,0,1,1,100.0,0.07,0.07,0.0,0.0,24.6,0,0,0,0.0,0.0,0.02,0.0,0.0,Defender,Midfielder
+Jack Grealish,ENG,Manchester City,"29 years, 191 days",6.8,0,13,4,30.8,1.92,0.59,0.0,0.0,16.7,0,0,0,0.8,0.8,0.06,-0.8,-0.8,Forward,Midfielder
+Jacob Greaves,ENG,Ipswich Town,"24 years, 189 days",18.5,1,8,4,50.0,0.43,0.22,0.13,0.25,8.3,0,0,0,1.2,1.2,0.16,-0.2,-0.2,Defender,
+Brajan Gruda,GER,Brighton,"20 years, 293 days",4.3,0,3,2,66.7,0.7,0.47,0.0,0.0,18.6,2,0,0,0.3,0.3,0.1,-0.3,-0.3,Forward,Midfielder
+Albert Grønbaek,DEN,Southampton,"23 years, 301 days",1.6,0,2,0,0.0,1.26,0.0,0.0,,22.4,0,0,0,0.1,0.1,0.06,-0.1,-0.1,Forward,Midfielder
+Gonçalo Guedes,POR,Wolves,"28 years, 111 days",8.6,2,18,7,38.9,2.1,0.82,0.11,0.29,19.9,0,0,0,2.2,2.2,0.12,-0.2,-0.2,Midfielder,Forward
+Marc Guéhi,ENG,Crystal Palace,"24 years, 250 days",27.0,3,11,6,54.5,0.41,0.22,0.27,0.5,9.5,0,0,0,1.6,1.6,0.14,1.4,1.4,Defender,
+Luis Guilherme,BRA,West Ham,"19 years, 039 days",0.6,0,1,0,0.0,1.58,0.0,0.0,,23.7,0,0,0,0.0,0.0,0.03,0.0,0.0,Midfielder,Forward
+Bruno Guimarães,BRA,Newcastle Utd,"27 years, 124 days",26.9,3,31,7,22.6,1.15,0.26,0.1,0.43,17.1,0,0,0,2.8,2.8,0.09,0.2,0.2,Midfielder,
+Marc Guiu,ESP,Chelsea,"19 years, 075 days",0.8,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Forward,
+İlkay Gündoğan,GER,Manchester City,"34 years, 147 days",17.1,0,18,4,22.2,1.06,0.23,0.0,0.0,18.6,2,0,0,1.7,1.7,0.09,-1.7,-1.7,Midfielder,
+Malo Gusto,FRA,Chelsea,"21 years, 305 days",17.2,0,19,3,15.8,1.1,0.17,0.0,0.0,21.1,0,0,0,1.6,1.6,0.08,-1.6,-1.6,Defender,
+Joško Gvardiol,CRO,Manchester City,"23 years, 056 days",27.4,5,34,11,32.4,1.24,0.4,0.15,0.45,13.4,0,0,0,4.2,3.8,0.11,0.8,1.2,Defender,
+Erling Haaland,NOR,Manchester City,"24 years, 242 days",27.6,21,99,54,54.5,3.59,1.96,0.19,0.35,12.2,1,2,3,20.8,18.4,0.19,0.2,0.6,Forward,
+Lewis Hall,ENG,Newcastle Utd,"20 years, 193 days",24.3,0,11,1,9.1,0.45,0.04,0.0,0.0,18.8,0,0,0,0.4,0.4,0.04,-0.4,-0.4,Defender,
+Ali Al Hamadi,IRQ,Ipswich Town,"23 years, 019 days",1.5,0,4,0,0.0,2.69,0.0,0.0,,15.7,0,0,0,0.4,0.4,0.09,-0.4,-0.4,Forward,
+Marcus Harness,ENG,Ipswich Town,"29 years, 024 days",0.5,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Midfielder,
+Jack Harrison,ENG,Everton,"28 years, 120 days",16.7,1,24,6,25.0,1.44,0.36,0.04,0.17,15.3,0,0,0,3.1,3.1,0.13,-2.1,-2.1,Forward,
+Taylor Harwood-Bellis,ENG,Southampton,"23 years, 049 days",23.6,1,18,7,38.9,0.76,0.3,0.06,0.14,10.2,0,0,0,1.7,1.7,0.1,-0.7,-0.7,Defender,
+Kai Havertz,GER,Arsenal,"25 years, 282 days",20.4,9,52,21,40.4,2.54,1.03,0.17,0.43,11.7,0,0,0,9.4,9.4,0.18,-0.4,-0.4,Forward,Midfielder
+Ayden Heaven,ENG,Manchester Utd,"18 years, 179 days",1.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Defender,
+Jan Paul van Hecke,NED,Brighton,"24 years, 285 days",25.9,1,15,4,26.7,0.58,0.15,0.07,0.25,14.3,0,0,0,1.2,1.2,0.08,-0.2,-0.2,Defender,
+Hwang Hee-chan,KOR,Wolves,"29 years, 053 days",7.1,2,5,3,60.0,0.71,0.42,0.4,0.67,17.4,0,0,0,0.8,0.8,0.16,1.2,1.2,Midfielder,Forward
+Dean Henderson,ENG,Crystal Palace,"28 years, 008 days",28.0,0,1,0,0.0,0.04,0.0,0.0,,14.9,0,0,0,0.0,0.0,0.01,0.0,0.0,Goalkeeper,
+Rico Henry,ENG,Brentford,"27 years, 255 days",0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Defender,
+Mads Hermansen,DEN,Leicester City,"24 years, 252 days",21.5,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Goalkeeper,
+Son Heung-min,KOR,Tottenham,"32 years, 255 days",20.6,7,50,23,46.0,2.42,1.11,0.12,0.26,17.4,1,1,2,6.5,4.9,0.1,0.5,1.1,Forward,
+James Hill,ENG,Bournemouth,"23 years, 069 days",4.7,0,6,0,0.0,1.27,0.0,0.0,,13.9,0,0,0,0.3,0.3,0.05,-0.3,-0.3,Defender,
+Jack Hinshelwood,ENG,Brighton,"19 years, 343 days",13.9,2,11,4,36.4,0.79,0.29,0.18,0.5,13.6,0,0,0,1.4,1.4,0.12,0.6,0.6,Defender,Midfielder
+George Hirst,ENG,Ipswich Town,"26 years, 033 days",3.0,2,6,4,66.7,1.99,1.33,0.33,0.5,10.1,0,0,0,1.1,1.1,0.18,0.9,0.9,Forward,
+Mason Holgate,ENG,Everton,"28 years, 149 days",0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Forward,Defender
+Callum Hudson-Odoi,ENG,Nottingham Forest,"24 years, 133 days",21.0,5,33,15,45.5,1.57,0.71,0.15,0.33,18.6,0,0,0,2.2,2.2,0.07,2.8,2.8,Forward,Midfielder
+Will Hughes,ENG,Crystal Palace,"29 years, 337 days",18.2,0,17,1,5.9,0.93,0.05,0.0,0.0,22.7,0,0,0,0.9,0.9,0.05,-0.9,-0.9,Midfielder,
+Dean Huijsen,ESP,Bournemouth,"19 years, 340 days",18.8,2,14,2,14.3,0.74,0.11,0.14,1.0,10.1,0,0,0,1.6,1.6,0.12,0.4,0.4,Defender,
+Omari Hutchinson,ENG,Ipswich Town,"21 years, 141 days",24.7,3,36,16,44.4,1.46,0.65,0.08,0.19,20.8,4,0,0,2.3,2.3,0.06,0.7,0.7,Midfielder,Forward
+Rasmus Højlund,DEN,Manchester Utd,"22 years, 044 days",15.9,3,20,9,45.0,1.26,0.56,0.15,0.33,13.8,0,0,0,3.0,3.0,0.15,0.0,0.0,Forward,
+Igor,BRA,Brighton,"27 years, 041 days",10.0,0,1,0,0.0,0.1,0.0,0.0,,14.1,0,0,0,0.0,0.0,0.05,0.0,0.0,Defender,
+Danny Ings,ENG,West Ham,"32 years, 240 days",3.2,1,14,5,35.7,4.44,1.58,0.07,0.2,15.5,0,0,0,2.3,2.3,0.16,-1.3,-1.3,Forward,Midfielder
+Tim Iroegbunam,ENG,Everton,"21 years, 263 days",5.3,0,5,0,0.0,0.94,0.0,0.0,,22.5,0,0,0,0.2,0.2,0.05,-0.2,-0.2,Midfielder,
+Andy Irving,SCO,West Ham,"24 years, 311 days",1.8,0,4,2,50.0,2.17,1.08,0.0,0.0,26.2,0,0,0,0.1,0.1,0.03,-0.1,-0.1,Midfielder,
+Alexander Isak,SWE,Newcastle Utd,"25 years, 180 days",22.8,19,67,31,46.3,2.94,1.36,0.25,0.55,14.6,3,2,2,15.6,14.0,0.21,3.4,3.0,Forward,
+Alex Iwobi,NGA,Fulham,"28 years, 321 days",26.2,7,53,22,41.5,2.02,0.84,0.13,0.32,18.1,0,0,0,3.9,3.9,0.07,3.1,3.1,Forward,Midfielder
+Nicolas Jackson,SEN,Chelsea,"23 years, 273 days",19.3,9,63,30,47.6,3.27,1.56,0.14,0.3,12.2,0,0,0,11.4,11.4,0.18,-2.4,-2.4,Forward,
+Reece James,ENG,Chelsea,"25 years, 102 days",7.6,1,5,1,20.0,0.66,0.13,0.2,1.0,23.3,1,0,0,0.2,0.2,0.03,0.8,0.8,Defender,Midfielder
+Vitaly Janelt,GER,Brentford,"26 years, 314 days",23.3,1,14,4,28.6,0.6,0.17,0.07,0.25,17.7,0,0,0,0.8,0.8,0.06,0.2,0.2,Midfielder,
+Vitezslav Jaros,CZE,Liverpool,"23 years, 240 days",0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Goalkeeper,
+Daniel Jebbison,ENG,Bournemouth,"21 years, 219 days",0.8,0,2,1,50.0,2.57,1.29,0.0,0.0,12.3,0,0,0,0.2,0.2,0.1,-0.2,-0.2,Forward,
+Mathias Jensen,DEN,Brentford,"29 years, 078 days",8.2,0,6,1,16.7,0.73,0.12,0.0,0.0,23.1,0,0,0,0.2,0.2,0.04,-0.2,-0.2,Midfielder,
+Gabriel Jesus,BRA,Arsenal,"27 years, 351 days",6.8,3,20,7,35.0,2.96,1.04,0.15,0.43,11.1,0,0,0,3.0,3.0,0.15,0.0,0.0,Forward,
+Raúl Jiménez,MEX,Fulham,"33 years, 319 days",20.4,10,74,25,33.8,3.63,1.23,0.09,0.28,14.6,0,3,3,10.3,7.9,0.11,-0.3,-0.9,Forward,
+Kim Jisoo,KOR,Brentford,"20 years, 086 days",0.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Defender,
+João Pedro,BRA,Brighton,"23 years, 175 days",18.9,8,39,14,35.9,2.07,0.74,0.13,0.36,16.6,0,3,3,7.1,4.7,0.12,0.9,0.3,Forward,Midfielder
+Joelinton,BRA,Newcastle Utd,"28 years, 218 days",22.3,4,40,11,27.5,1.8,0.49,0.1,0.36,14.1,0,0,0,3.7,3.7,0.09,0.3,0.3,Midfielder,Forward
+Ben Johnson,ENG,Ipswich Town,"25 years, 055 days",10.6,0,4,2,50.0,0.38,0.19,0.0,0.0,11.7,0,0,0,0.7,0.7,0.17,-0.7,-0.7,Defender,Forward
+Brennan Johnson,WAL,Tottenham,"23 years, 301 days",19.6,9,49,18,36.7,2.5,0.92,0.18,0.5,11.4,0,0,0,9.2,9.2,0.19,-0.2,-0.2,Forward,
+Sam Johnstone,ENG,Wolves,"31 years, 360 days",7.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Goalkeeper,
+Curtis Jones,ENG,Liverpool,"24 years, 049 days",13.0,3,26,10,38.5,2.01,0.77,0.12,0.3,15.1,0,0,0,4.0,4.0,0.15,-1.0,-1.0,Midfielder,Forward
+Jorginho,ITA,Arsenal,"33 years, 090 days",6.0,0,1,0,0.0,0.17,0.0,0.0,,22.5,0,0,0,0.0,0.0,0.04,0.0,0.0,Midfielder,
+Diogo Jota,POR,Liverpool,"28 years, 106 days",9.4,5,35,11,31.4,3.73,1.17,0.14,0.45,12.6,0,0,0,6.1,6.1,0.17,-1.1,-1.1,Forward,
+James Justin,ENG,Leicester City,"27 years, 025 days",25.3,2,24,6,25.0,0.95,0.24,0.08,0.33,16.0,2,0,0,1.5,1.5,0.06,0.5,0.5,Defender,
+Filip Jørgensen,DEN,Chelsea,"22 years, 338 days",6.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Goalkeeper,
+Ferdi Kadioglu,TUR,Brighton,"25 years, 164 days",4.3,1,4,1,25.0,0.94,0.23,0.25,1.0,15.1,0,0,0,0.4,0.4,0.11,0.6,0.6,Defender,Midfielder
+Daichi Kamada,JPN,Crystal Palace,"28 years, 227 days",11.0,0,14,4,28.6,1.28,0.37,0.0,0.0,20.3,0,0,0,0.8,0.8,0.06,-0.8,-0.8,Midfielder,
+Boubacar Kamara,FRA,Aston Villa,"25 years, 117 days",12.0,0,5,1,20.0,0.42,0.08,0.0,0.0,20.1,0,0,0,0.3,0.3,0.05,-0.3,-0.3,Midfielder,
+Michael Kayode,ITA,Brentford,"20 years, 253 days",0.4,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Defender,
+Michael Keane,ENG,Everton,"32 years, 068 days",9.0,2,8,3,37.5,0.89,0.33,0.25,0.67,14.8,0,0,0,0.4,0.4,0.05,1.6,1.6,Defender,
+Caoimhín Kelleher,IRL,Liverpool,"26 years, 117 days",8.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Goalkeeper,
+Lloyd Kelly,ENG,Newcastle Utd,"26 years, 165 days",3.4,0,3,0,0.0,0.89,0.0,0.0,,7.3,0,0,0,0.4,0.4,0.14,-0.4,-0.4,Defender,
+Milos Kerkez,HUN,Bournemouth,"21 years, 133 days",28.2,2,16,5,31.3,0.57,0.18,0.13,0.4,20.3,0,0,0,0.5,0.4,0.03,1.5,1.6,Defender,
+Bilal El Khannouss,MAR,Leicester City,"20 years, 314 days",17.0,2,18,4,22.2,1.06,0.24,0.11,0.5,23.1,0,0,0,0.7,0.7,0.04,1.3,1.3,Midfielder,
+Abdukodir Khusanov,UZB,Manchester City,"21 years, 019 days",5.6,0,1,0,0.0,0.18,0.0,0.0,,23.9,0,0,0,0.0,0.0,0.02,0.0,0.0,Defender,
+Max Kilman,ENG,West Ham,"27 years, 301 days",28.2,0,11,2,18.2,0.39,0.07,0.0,0.0,8.4,0,0,0,1.4,1.4,0.13,-1.4,-1.4,Defender,
+Joshua King,ENG,Fulham,"18 years, 076 days",0.9,0,1,0,0.0,1.13,0.0,0.0,,5.3,0,0,0,0.2,0.2,0.2,-0.2,-0.2,Midfielder,Forward
+Antonín Kinský,CZE,Tottenham,"22 years, 007 days",4.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Goalkeeper,
+Jakub Kiwior,POL,Arsenal,"25 years, 033 days",3.6,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Defender,
+Justin Kluivert,NED,Bournemouth,"25 years, 319 days",21.5,12,50,22,44.0,2.32,1.02,0.12,0.27,20.1,0,6,6,9.9,5.1,0.1,2.1,0.9,Midfielder,Forward
+Ibrahima Konaté,FRA,Liverpool,"25 years, 299 days",21.0,1,12,2,16.7,0.57,0.1,0.08,0.5,11.1,0,0,0,1.1,1.1,0.09,-0.1,-0.1,Defender,
+Ezri Konsa,ENG,Aston Villa,"27 years, 148 days",24.1,1,6,2,33.3,0.25,0.08,0.17,0.5,8.5,0,0,0,0.7,0.7,0.11,0.3,0.3,Defender,
+Mateo Kovačić,CRO,Manchester City,"30 years, 318 days",18.7,4,33,8,24.2,1.77,0.43,0.12,0.5,22.0,0,0,0,1.4,1.4,0.04,2.6,2.6,Midfielder,
+Caleb Kporha,ENG,Crystal Palace,"18 years, 248 days",0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Defender,
+Emil Krafth,SWE,Newcastle Utd,"30 years, 230 days",2.7,0,1,0,0.0,0.37,0.0,0.0,,14.6,0,0,0,0.0,0.0,0.03,0.0,0.0,Defender,
+Mohammed Kudus,GHA,West Ham,"24 years, 230 days",22.2,3,59,17,28.8,2.66,0.77,0.05,0.18,15.3,0,0,0,5.9,5.9,0.1,-2.9,-2.9,Midfielder,Forward
+Dejan Kulusevski,SWE,Tottenham,"24 years, 329 days",23.9,7,43,16,37.2,1.8,0.67,0.16,0.44,14.7,0,0,0,4.1,4.1,0.1,2.9,2.9,Midfielder,Forward
+Maxence Lacroix,FRA,Crystal Palace,"24 years, 348 days",24.9,1,23,5,21.7,0.92,0.2,0.04,0.2,12.2,0,0,0,2.5,2.5,0.11,-1.5,-1.5,Defender,
+Adam Lallana,ENG,Southampton,"36 years, 314 days",4.0,0,3,0,0.0,0.75,0.0,0.0,,18.1,0,0,0,0.2,0.2,0.06,-0.2,-0.2,Midfielder,
+Tariq Lamptey,GHA,Brighton,"24 years, 171 days",8.5,2,6,2,33.3,0.71,0.24,0.33,1.0,18.5,0,0,0,0.4,0.4,0.06,1.6,1.6,Defender,
+Will Lankshear,ENG,Tottenham,"19 years, 334 days",0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Forward,Midfielder
+Roméo Lavia,BEL,Chelsea,"21 years, 073 days",6.0,0,1,0,0.0,0.17,0.0,0.0,,16.0,0,0,0,0.2,0.2,0.18,-0.2,-0.2,Midfielder,
+Mario Lemina,GAB,Wolves,"31 years, 200 days",15.2,1,18,5,27.8,1.19,0.33,0.06,0.2,21.9,0,0,0,1.4,1.4,0.08,-0.4,-0.4,Midfielder,Defender
+Bernd Leno,GER,Fulham,"33 years, 016 days",29.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Goalkeeper,
+Jefferson Lerma,COL,Crystal Palace,"30 years, 146 days",17.1,0,23,7,30.4,1.34,0.41,0.0,0.0,19.8,0,0,0,0.9,0.9,0.04,-0.9,-0.9,Midfielder,
+Rico Lewis,ENG,Manchester City,"20 years, 119 days",18.9,1,10,2,20.0,0.53,0.11,0.1,0.5,15.8,0,0,0,1.4,1.4,0.14,-0.4,-0.4,Defender,Midfielder
+Keane Lewis-Potter,ENG,Brentford,"24 years, 026 days",26.3,1,26,13,50.0,0.99,0.49,0.04,0.08,20.9,1,0,0,2.5,2.5,0.1,-1.5,-1.5,Defender,Forward
+Myles Lewis-Skelly,ENG,Arsenal,"18 years, 175 days",8.5,1,1,1,100.0,0.12,0.12,1.0,1.0,13.9,0,0,0,0.0,0.0,0.04,1.0,1.0,Defender,
+Matthijs de Ligt,NED,Manchester Utd,"25 years, 220 days",22.2,2,17,8,47.1,0.77,0.36,0.12,0.25,8.1,0,0,0,2.3,2.3,0.14,-0.3,-0.3,Defender,
+Pedro Lima,BRA,Wolves,"18 years, 262 days",0.8,0,1,1,100.0,1.29,1.29,0.0,0.0,22.5,0,0,0,0.1,0.1,0.06,-0.1,-0.1,Defender,
+Victor Lindelöf,SWE,Manchester Utd,"30 years, 246 days",2.7,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Defender,
+Jesper Lindstrøm,DEN,Everton,"25 years, 019 days",13.8,0,28,10,35.7,2.03,0.73,0.0,0.0,21.0,6,0,0,2.1,2.1,0.08,-2.1,-2.1,Forward,
+Valentino Livramento,ENG,Newcastle Utd,"22 years, 128 days",21.6,0,3,1,33.3,0.14,0.05,0.0,0.0,20.3,0,0,0,0.1,0.1,0.04,-0.1,-0.1,Defender,
+Sean Longstaff,ENG,Newcastle Utd,"27 years, 141 days",8.3,0,6,1,16.7,0.72,0.12,0.0,0.0,13.5,0,0,0,0.6,0.6,0.1,-0.6,-0.6,Midfielder,
+Saša Lukić,SRB,Fulham,"28 years, 219 days",19.3,0,11,1,9.1,0.57,0.05,0.0,0.0,19.0,0,0,0,0.8,0.8,0.07,-0.8,-0.8,Midfielder,
+Joe Lumley,ENG,Southampton,"30 years, 033 days",3.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Goalkeeper,
+Massimo Luongo,AUS,Ipswich Town,"32 years, 176 days",2.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Midfielder,
+Ian Maatsen,NED,Aston Villa,"23 years, 010 days",6.9,0,8,3,37.5,1.17,0.44,0.0,0.0,26.4,0,0,0,0.2,0.2,0.03,-0.2,-0.2,Defender,
+Alexis Mac Allister,ARG,Liverpool,"26 years, 086 days",23.5,3,29,9,31.0,1.24,0.38,0.1,0.33,17.5,0,0,0,2.3,2.3,0.08,0.7,0.7,Midfielder,
+James Maddison,ENG,Tottenham,"28 years, 117 days",16.9,9,37,17,45.9,2.19,1.0,0.24,0.53,16.1,4,0,0,5.7,5.7,0.15,3.3,3.3,Midfielder,
+Noni Madueke,ENG,Chelsea,"23 years, 010 days",16.1,7,64,25,39.1,3.96,1.55,0.11,0.28,14.7,0,0,0,7.6,7.6,0.12,-0.6,-0.6,Forward,
+Gabriel Magalhães,BRA,Arsenal,"27 years, 091 days",26.1,3,22,5,22.7,0.84,0.19,0.14,0.6,9.5,0,0,0,2.6,2.6,0.12,0.4,0.4,Defender,
+Edmond-Paris Maghoma,ENG,Brentford,"23 years, 316 days",1.2,0,1,0,0.0,0.81,0.0,0.0,,23.8,0,0,0,0.1,0.1,0.12,-0.1,-0.1,Midfielder,Forward
+Harry Maguire,ENG,Manchester Utd,"32 years, 015 days",15.1,1,8,4,50.0,0.53,0.27,0.13,0.25,9.2,0,0,0,0.8,0.8,0.1,0.2,0.2,Defender,
+Kobbie Mainoo,ENG,Manchester Utd,"19 years, 335 days",14.3,0,10,1,10.0,0.7,0.07,0.0,0.0,20.2,0,0,0,0.5,0.5,0.05,-0.5,-0.5,Midfielder,
+Tyrell Malacia,NED,Manchester Utd,"25 years, 215 days",1.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Defender,
+Donyell Malen,NED,Aston Villa,"26 years, 070 days",1.9,0,7,4,57.1,3.71,2.12,0.0,0.0,17.6,0,0,0,0.6,0.6,0.08,-0.6,-0.6,Forward,
+Orel Mangala,BEL,Everton,"27 years, 002 days",14.0,1,16,6,37.5,1.14,0.43,0.06,0.17,22.1,0,0,0,1.1,1.1,0.07,-0.1,-0.1,Midfielder,
+Ryan Manning,IRL,Southampton,"28 years, 279 days",10.8,0,5,0,0.0,0.46,0.0,0.0,,18.6,0,0,0,0.3,0.3,0.06,-0.3,-0.3,Defender,Midfielder
+Solly March,ENG,Brighton,"30 years, 243 days",0.4,0,1,0,0.0,2.25,0.0,0.0,,18.2,0,0,0,0.1,0.1,0.06,-0.1,-0.1,Midfielder,Forward
+Omar Marmoush,EGY,Manchester City,"26 years, 041 days",5.3,4,14,6,42.9,2.65,1.14,0.29,0.67,21.7,2,0,0,1.1,1.1,0.08,2.9,2.9,Midfielder,Forward
+Gabriel Martinelli,BRA,Arsenal,"23 years, 275 days",17.4,6,32,16,50.0,1.84,0.92,0.19,0.38,12.5,0,0,0,4.5,4.5,0.14,1.5,1.5,Forward,Midfielder
+Emiliano Martínez,ARG,Aston Villa,"32 years, 199 days",27.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Goalkeeper,
+Lisandro Martínez,ARG,Manchester Utd,"27 years, 061 days",19.5,2,17,6,35.3,0.87,0.31,0.12,0.33,15.9,0,0,0,1.3,1.3,0.08,0.7,0.7,Defender,
+Pape Matar Sarr,SEN,Tottenham,"22 years, 187 days",15.5,3,26,12,46.2,1.68,0.77,0.12,0.25,21.5,0,0,0,3.1,3.1,0.12,-0.1,-0.1,Midfielder,
+Jean-Philippe Mateta,FRA,Crystal Palace,"27 years, 265 days",23.7,12,52,21,40.4,2.2,0.89,0.19,0.48,15.1,0,2,2,11.3,9.7,0.19,0.7,0.3,Forward,
+Stephy Mavididi,ENG,Leicester City,"26 years, 293 days",15.5,3,22,6,27.3,1.42,0.39,0.14,0.5,15.8,1,0,0,1.6,1.6,0.07,1.4,1.4,Forward,
+Konstantinos Mavropanos,GRE,West Ham,"27 years, 099 days",18.5,0,16,5,31.3,0.87,0.27,0.0,0.0,15.4,0,0,0,1.2,1.2,0.07,-1.2,-1.2,Defender,
+Noussair Mazraoui,MAR,Manchester Utd,"27 years, 126 days",24.6,0,11,3,27.3,0.45,0.12,0.0,0.0,20.0,0,0,0,0.6,0.6,0.06,-0.6,-0.6,Defender,
+Bryan Mbeumo,CMR,Brentford,"25 years, 225 days",28.9,15,58,27,46.6,2.0,0.93,0.19,0.41,17.5,6,4,4,9.0,5.8,0.1,6.0,5.2,Forward,
+James Mcatee,ENG,Manchester City,"22 years, 153 days",1.4,2,5,2,40.0,3.46,1.38,0.4,1.0,12.6,0,0,0,1.3,1.3,0.27,0.7,0.7,Midfielder,Forward
+Kasey McAteer,IRL,Leicester City,"23 years, 118 days",4.4,0,6,2,33.3,1.37,0.46,0.0,0.0,15.8,0,0,0,0.6,0.6,0.09,-0.6,-0.6,Forward,Midfielder
+Alex McCarthy,ENG,Southampton,"35 years, 107 days",5.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Goalkeeper,
+John McGinn,SCO,Aston Villa,"30 years, 153 days",19.7,0,22,2,9.1,1.11,0.1,0.0,0.0,17.3,1,0,0,2.0,2.0,0.09,-2.0,-2.0,Midfielder,Forward
+Dwight McNeil,ENG,Everton,"25 years, 118 days",12.7,3,23,8,34.8,1.82,0.63,0.13,0.38,22.0,0,0,0,0.9,0.9,0.04,2.1,2.1,Midfielder,Forward
+Scott McTominay,SCO,Manchester Utd,"28 years, 102 days",0.2,0,1,0,0.0,4.74,0.0,0.0,,10.7,0,0,0,0.1,0.1,0.07,-0.1,-0.1,Midfielder,
+Ben Mee,ENG,Brentford,"35 years, 180 days",2.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Defender,
+Jayden Meghoma,ENG,Brentford,"18 years, 265 days",0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Defender,
+Mikel Merino,ESP,Arsenal,"28 years, 271 days",12.8,5,25,11,44.0,1.96,0.86,0.2,0.45,11.0,0,0,0,3.7,3.7,0.15,1.3,1.3,Midfielder,Forward
+Shumaira Mheuka,ENG,Chelsea,"17 years, 151 days",0.0,0,1,1,100.0,90.0,90.0,0.0,0.0,7.2,0,0,0,0.1,0.1,0.06,-0.1,-0.1,Midfielder,
+Nikola Milenković,SRB,Nottingham Forest,"27 years, 159 days",28.0,4,25,7,28.0,0.89,0.25,0.16,0.57,12.0,0,0,0,3.5,3.5,0.14,0.5,0.5,Defender,
+Lewis Miley,ENG,Newcastle Utd,"18 years, 323 days",2.1,1,3,2,66.7,1.41,0.94,0.33,0.5,14.6,0,0,0,0.5,0.5,0.18,0.5,0.5,Midfielder,
+James Milner,ENG,Brighton,"39 years, 075 days",1.9,0,2,0,0.0,1.07,0.0,0.0,,16.0,0,0,0,0.2,0.2,0.08,-0.2,-0.2,Midfielder,
+Tyrone Mings,ENG,Aston Villa,"32 years, 007 days",8.7,0,5,1,20.0,0.58,0.12,0.0,0.0,8.8,0,0,0,0.6,0.6,0.13,-0.6,-0.6,Defender,
+Yankuba Minteh,GAM,Brighton,"20 years, 241 days",14.1,5,26,13,50.0,1.85,0.92,0.19,0.38,14.3,0,0,0,3.3,3.3,0.13,1.7,1.7,Forward,Midfielder
+Tyrick Mitchell,ENG,Crystal Palace,"25 years, 200 days",26.7,0,11,2,18.2,0.41,0.07,0.0,0.0,13.4,0,0,0,1.2,1.2,0.11,-1.2,-1.2,Defender,
+Kaoru Mitoma,JPN,Brighton,"27 years, 304 days",25.7,7,47,21,44.7,1.83,0.82,0.15,0.33,13.9,0,0,0,7.3,7.3,0.16,-0.3,-0.3,Forward,Midfielder
+Jakub Moder,POL,Brighton,"25 years, 347 days",0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Midfielder,
+Mikey Moore,ENG,Tottenham,"17 years, 221 days",2.1,0,3,0,0.0,1.46,0.0,0.0,,19.5,0,0,0,0.2,0.2,0.07,-0.2,-0.2,Forward,Midfielder
+Morato,BRA,Nottingham Forest,"23 years, 263 days",7.0,0,1,0,0.0,0.14,0.0,0.0,,7.0,0,0,0,0.1,0.1,0.1,-0.1,-0.1,Defender,
+Álex Moreno,ESP,Nottingham Forest,"31 years, 285 days",9.0,0,6,0,0.0,0.66,0.0,0.0,,23.7,0,0,0,0.2,0.2,0.03,-0.2,-0.2,Defender,
+Sam Morsy,EGY,Ipswich Town,"33 years, 191 days",22.0,1,8,1,12.5,0.36,0.05,0.13,1.0,25.6,0,0,0,0.3,0.3,0.04,0.7,0.7,Midfielder,
+Yerson Mosquera,COL,Wolves,"23 years, 322 days",4.9,0,2,0,0.0,0.41,0.0,0.0,,12.4,0,0,0,0.3,0.3,0.17,-0.3,-0.3,Defender,
+Mason Mount,ENG,Manchester Utd,"26 years, 069 days",2.7,0,3,2,66.7,1.09,0.73,0.0,0.0,17.3,0,0,0,0.4,0.4,0.13,-0.4,-0.4,Midfielder,Forward
+Divin Mubama,ENG,Manchester City,"20 years, 146 days",0.3,0,1,0,0.0,3.21,0.0,0.0,,17.2,0,0,0,0.0,0.0,0.04,0.0,0.0,Forward,
+Mykhailo Mudryk,UKR,Chelsea,"24 years, 074 days",1.7,0,1,1,100.0,0.6,0.6,0.0,0.0,11.6,0,0,0,0.3,0.3,0.25,-0.3,-0.3,Forward,
+Marshall Munetsi,ZIM,Wolves,"28 years, 271 days",3.8,1,9,3,33.3,2.4,0.8,0.11,0.33,13.7,0,0,0,1.9,1.9,0.21,-0.9,-0.9,Midfielder,Forward
+Rodrigo Muniz,BRA,Fulham,"23 years, 320 days",9.1,6,31,15,48.4,3.41,1.65,0.19,0.4,12.3,0,0,0,4.7,4.7,0.15,1.3,1.3,Forward,
+Daniel Muñoz,COL,Crystal Palace,"28 years, 298 days",26.0,3,29,11,37.9,1.11,0.42,0.1,0.27,12.7,0,0,0,4.1,4.1,0.14,-1.1,-1.1,Defender,
+Arijanet Muric,KVX,Ipswich Town,"26 years, 133 days",18.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Goalkeeper,
+Murillo,BRA,Nottingham Forest,"22 years, 259 days",27.5,1,19,4,21.1,0.69,0.15,0.05,0.25,23.9,3,0,0,1.2,1.2,0.06,-0.2,-0.2,Defender,
+Jacob Murphy,ENG,Newcastle Utd,"30 years, 024 days",18.7,5,32,12,37.5,1.71,0.64,0.16,0.42,18.1,0,0,0,3.8,3.8,0.12,1.2,1.2,Forward,
+Vitaliy Mykolenko,UKR,Everton,"25 years, 295 days",26.2,0,11,0,0.0,0.42,0.0,0.0,,20.9,0,0,0,0.4,0.4,0.04,-0.4,-0.4,Defender,
+Iliman Ndiaye,SEN,Everton,"25 years, 014 days",20.9,6,24,10,41.7,1.15,0.48,0.21,0.5,16.5,0,1,1,3.6,2.8,0.12,2.4,2.2,Forward,
+Wilfred Ndidi,NGA,Leicester City,"28 years, 094 days",18.3,0,17,8,47.1,0.93,0.44,0.0,0.0,14.8,0,0,0,1.6,1.6,0.1,-1.6,-1.6,Midfielder,
+Kosta Nedeljković,SRB,Aston Villa,"19 years, 094 days",1.4,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Defender,
+Reiss Nelson,ENG,Arsenal,"25 years, 100 days",0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Forward,
+Reiss Nelson,ENG,Fulham,"25 years, 100 days",5.4,1,12,6,50.0,2.22,1.11,0.08,0.17,15.4,0,0,0,1.1,1.1,0.09,-0.1,-0.1,Forward,
+Neto,BRA,Bournemouth,"35 years, 244 days",2.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Goalkeeper,
+Pedro Neto,POR,Chelsea,"25 years, 011 days",17.0,3,37,10,27.0,2.18,0.59,0.08,0.3,18.2,0,0,0,2.0,2.0,0.06,1.0,1.0,Forward,
+Eddie Nketiah,ENG,Crystal Palace,"25 years, 294 days",7.9,1,29,10,34.5,3.69,1.27,0.03,0.1,15.1,0,0,0,3.3,3.3,0.11,-2.3,-2.3,Midfielder,Forward
+Christopher Nkunku,FRA,Chelsea,"27 years, 126 days",9.7,3,24,11,45.8,2.48,1.14,0.13,0.27,12.9,0,0,0,4.7,4.6,0.19,-1.7,-1.6,Forward,
+Matheus Nunes,POR,Manchester City,"26 years, 205 days",11.6,0,5,1,20.0,0.43,0.09,0.0,0.0,18.4,0,0,0,0.5,0.5,0.11,-0.5,-0.5,Defender,Midfielder
+Darwin Núñez,URU,Liverpool,"25 years, 269 days",10.8,5,30,12,40.0,2.78,1.11,0.17,0.42,13.7,0,0,0,5.0,5.0,0.17,0.0,0.0,Forward,
+Ethan Nwaneri,ENG,Arsenal,"17 years, 364 days",6.7,3,17,6,35.3,2.52,0.89,0.18,0.5,19.8,1,0,0,0.8,0.8,0.05,2.2,2.2,Forward,Midfielder
+Christian Nørgaard,DEN,Brentford,"31 years, 010 days",22.3,4,28,9,32.1,1.25,0.4,0.14,0.44,15.0,0,0,0,3.1,3.1,0.11,0.9,0.9,Midfielder,
+Jake O'Brien,IRL,Everton,"23 years, 309 days",9.5,2,3,3,100.0,0.32,0.32,0.67,0.67,12.3,0,0,0,0.6,0.6,0.19,1.4,1.4,Defender,
+Matt O'Riley,DEN,Brighton,"24 years, 119 days",5.3,1,14,4,28.6,2.65,0.76,0.07,0.25,17.3,1,0,0,1.2,1.2,0.09,-0.2,-0.2,Midfielder,
+Dara O'Shea,IRL,Ipswich Town,"26 years, 016 days",25.7,0,14,2,14.3,0.54,0.08,0.0,0.0,10.9,0,0,0,0.8,0.8,0.06,-0.8,-0.8,Defender,
+Chidozie Obi-Martin,DEN,Manchester Utd,"17 years, 111 days",0.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Forward,
+Wilson Odobert,FRA,Tottenham,"20 years, 112 days",3.9,0,9,1,11.1,2.29,0.25,0.0,0.0,16.5,0,0,0,0.7,0.7,0.07,-0.7,-0.7,Forward,
+Chiedozie Ogbene,IRL,Ipswich Town,"27 years, 323 days",2.6,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Forward,
+Caleb Okoli,ITA,Leicester City,"23 years, 250 days",11.1,0,3,1,33.3,0.27,0.09,0.0,0.0,16.4,0,0,0,0.1,0.1,0.05,-0.1,-0.1,Defender,
+Robin Olsen,SWE,Aston Villa,"35 years, 071 days",2.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Goalkeeper,
+Amadou Onana,BEL,Aston Villa,"23 years, 216 days",12.0,2,14,4,28.6,1.17,0.33,0.14,0.5,13.8,0,0,0,1.8,1.8,0.13,0.2,0.2,Midfielder,
+André Onana,CMR,Manchester Utd,"28 years, 352 days",29.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Goalkeeper,
+Paul Onuachu,NGA,Southampton,"30 years, 296 days",8.5,3,25,12,48.0,2.95,1.41,0.12,0.25,10.3,0,0,0,2.8,2.8,0.11,0.2,0.2,Forward,
+Frank Onyeka,NGA,Brentford,"27 years, 078 days",0.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Midfielder,
+Lewis Orford,ENG,West Ham,"19 years, 030 days",0.5,0,1,0,0.0,1.84,0.0,0.0,,12.7,0,0,0,0.0,0.0,0.03,0.0,0.0,Midfielder,
+Stefan Ortega,GER,Manchester City,"32 years, 134 days",10.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Goalkeeper,
+William Osula,DEN,Newcastle Utd,"21 years, 228 days",0.8,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Forward,
+Dango Ouattara,BFA,Bournemouth,"23 years, 037 days",16.9,7,48,17,35.4,2.85,1.01,0.15,0.41,12.7,0,0,0,7.2,7.2,0.15,-0.2,-0.2,Forward,
+Nico O’Reilly,ENG,Manchester City,"19 years, 364 days",0.3,0,1,0,0.0,3.91,0.0,0.0,,31.1,0,0,0,0.0,0.0,0.03,0.0,0.0,Midfielder,Defender
+Alex Palmer,ENG,Ipswich Town,"28 years, 222 days",5.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Goalkeeper,
+Cole Palmer,ENG,Chelsea,"22 years, 318 days",27.1,14,98,36,36.7,3.61,1.33,0.11,0.31,20.4,12,3,4,15.2,12.1,0.12,-1.2,-1.1,Midfielder,
+Emerson Palmieri,ITA,West Ham,"30 years, 229 days",19.9,2,13,7,53.8,0.65,0.35,0.15,0.29,19.5,3,0,0,1.6,1.6,0.12,0.4,0.4,Defender,
+Lucas Paquetá,BRA,West Ham,"27 years, 205 days",20.1,4,34,3,8.8,1.69,0.15,0.06,0.67,19.0,3,2,2,5.0,3.4,0.1,-1.0,-1.4,Midfielder,Forward
+Thomas Partey,GHA,Arsenal,"31 years, 280 days",24.3,3,21,6,28.6,0.86,0.25,0.14,0.5,19.8,0,0,0,1.7,1.7,0.08,1.3,1.3,Midfielder,Defender
+Nathan Patterson,SCO,Everton,"23 years, 155 days",1.4,0,1,0,0.0,0.7,0.0,0.0,,16.8,0,0,0,0.1,0.1,0.07,-0.1,-0.1,Defender,Forward
+Andreas Pereira,BRA,Fulham,"29 years, 078 days",17.5,2,30,8,26.7,1.71,0.46,0.07,0.25,21.9,5,0,1,3.3,2.5,0.08,-1.3,-0.5,Midfielder,
+Ricardo Pereira,POR,Leicester City,"31 years, 165 days",1.7,0,1,1,100.0,0.59,0.59,0.0,0.0,25.9,0,0,0,0.0,0.0,0.04,0.0,0.0,Defender,
+Kalvin Phillips,ENG,Ipswich Town,"29 years, 108 days",13.4,0,10,2,20.0,0.75,0.15,0.0,0.0,24.2,3,0,0,0.4,0.4,0.04,-0.4,-0.4,Midfielder,
+Jaden Philogene Bidace,ENG,Aston Villa,"23 years, 040 days",3.7,0,7,0,0.0,1.9,0.0,0.0,,16.0,0,0,0,0.5,0.5,0.07,-0.5,-0.5,Forward,Midfielder
+Jaden Philogene Bidace,ENG,Ipswich Town,"23 years, 040 days",5.1,2,11,5,45.5,2.16,0.98,0.18,0.4,16.5,0,0,0,1.9,1.9,0.18,0.1,0.1,Forward,Defender
+Jordan Pickford,ENG,Everton,"31 years, 013 days",29.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Goalkeeper,
+Ethan Pinnock,JAM,Brentford,"31 years, 295 days",20.3,2,9,6,66.7,0.44,0.29,0.22,0.33,11.2,0,0,0,0.9,0.9,0.1,1.1,1.1,Defender,
+Daniel Podence,POR,Wolves,"29 years, 150 days",0.5,0,1,0,0.0,1.87,0.0,0.0,,24.4,0,0,0,0.0,0.0,0.04,0.0,0.0,Midfielder,Forward
+Alfie Pond,ENG,Wolves,"21 years, 019 days",0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Defender,
+Nick Pope,ENG,Newcastle Utd,"32 years, 335 days",18.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Goalkeeper,
+Pedro Porro,ESP,Tottenham,"25 years, 188 days",25.3,2,35,8,22.9,1.38,0.32,0.06,0.25,22.8,3,0,0,1.5,1.5,0.04,0.5,0.5,Defender,
+Jarell Quansah,ENG,Liverpool,"22 years, 050 days",3.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Defender,
+Hákon Rafn Valdimarsson,ISL,Brentford,"23 years, 158 days",1.6,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Goalkeeper,
+Aaron Ramsdale,ENG,Southampton,"26 years, 310 days",21.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Goalkeeper,
+Jacob Ramsey,ENG,Aston Villa,"23 years, 296 days",13.9,1,15,4,26.7,1.08,0.29,0.07,0.25,16.0,0,0,0,1.3,1.3,0.09,-0.3,-0.3,Forward,Midfielder
+Marcus Rashford,ENG,Manchester Utd,"27 years, 140 days",10.9,4,16,9,56.3,1.47,0.83,0.25,0.44,16.4,0,0,0,1.7,1.7,0.11,2.3,2.3,Forward,Midfielder
+Marcus Rashford,ENG,Aston Villa,"27 years, 140 days",2.2,0,7,1,14.3,3.12,0.45,0.0,0.0,20.8,1,0,0,0.3,0.3,0.04,-0.3,-0.3,Forward,
+David Raya,ESP,Arsenal,"29 years, 186 days",29.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Goalkeeper,
+Harrison Reed,ENG,Fulham,"30 years, 052 days",0.9,0,2,1,50.0,2.31,1.15,0.0,0.0,21.7,0,0,0,0.1,0.1,0.07,-0.1,-0.1,Midfielder,
+Remy Rees-Dottin,ENG,Bournemouth,"19 years, 014 days",0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Forward,
+Sergio Reguilón,ESP,Tottenham,"28 years, 094 days",1.4,0,1,0,0.0,0.73,0.0,0.0,,5.4,0,0,0,0.1,0.1,0.07,-0.1,-0.1,Defender,
+Bobby Reid,JAM,Leicester City,"32 years, 046 days",7.1,1,6,3,50.0,0.85,0.42,0.17,0.33,26.4,0,0,0,0.8,0.8,0.13,0.2,0.2,Forward,Midfielder
+Chadi Riad,MAR,Crystal Palace,"21 years, 276 days",1.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Defender,
+Declan Rice,ENG,Arsenal,"26 years, 065 days",24.0,2,33,8,24.2,1.38,0.33,0.06,0.25,20.2,1,0,0,2.0,2.0,0.06,0.0,0.0,Midfielder,
+Chris Richards,USA,Crystal Palace,"24 years, 357 days",14.9,0,8,4,50.0,0.54,0.27,0.0,0.0,13.7,0,0,0,0.5,0.5,0.06,-0.5,-0.5,Defender,
+Richarlison,BRA,Tottenham,"27 years, 314 days",3.1,2,6,3,50.0,1.94,0.97,0.33,0.67,8.4,0,0,0,1.2,1.2,0.2,0.8,0.8,Forward,
+Andrew Robertson,SCO,Liverpool,"31 years, 009 days",22.4,0,10,2,20.0,0.45,0.09,0.0,0.0,15.0,0,0,0,0.8,0.8,0.08,-0.8,-0.8,Defender,
+Antonee Robinson,USA,Fulham,"27 years, 224 days",28.2,0,16,2,12.5,0.57,0.07,0.0,0.0,22.1,0,0,0,0.7,0.7,0.04,-0.7,-0.7,Defender,
+Rodri,ESP,Manchester City,"28 years, 271 days",0.7,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Midfielder,
+Guido Rodríguez,ARG,West Ham,"30 years, 342 days",11.3,0,8,1,12.5,0.71,0.09,0.0,0.0,27.8,0,0,0,0.2,0.2,0.03,-0.2,-0.2,Midfielder,
+Mads Roerslev,DEN,Brentford,"25 years, 269 days",12.2,0,5,2,40.0,0.41,0.16,0.0,0.0,20.8,0,0,0,0.2,0.2,0.04,-0.2,-0.2,Defender,
+Morgan Rogers,ENG,Aston Villa,"22 years, 237 days",26.0,7,45,14,31.1,1.73,0.54,0.16,0.5,16.1,0,0,0,4.8,4.8,0.11,2.2,2.2,Midfielder,Forward
+Cristian Romero,ARG,Tottenham,"26 years, 327 days",12.2,1,12,5,41.7,0.98,0.41,0.08,0.2,9.6,0,0,0,1.1,1.1,0.09,-0.1,-0.1,Defender,
+Georginio Rutter,FRA,Brighton,"22 years, 334 days",18.4,5,50,12,24.0,2.72,0.65,0.1,0.42,15.5,0,0,0,4.6,4.6,0.09,0.4,0.4,Midfielder,Forward
+José Sá,POR,Wolves,"32 years, 062 days",22.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Goalkeeper,
+Bukayo Saka,ENG,Arsenal,"23 years, 196 days",14.1,5,45,17,37.8,3.19,1.21,0.09,0.24,15.9,0,1,1,4.2,3.4,0.08,0.8,0.6,Forward,Midfielder
+Mohamed Salah,EGY,Liverpool,"32 years, 278 days",28.5,27,97,44,45.4,3.4,1.54,0.19,0.41,15.2,1,9,9,22.0,15.0,0.16,5.0,3.0,Forward,
+William Saliba,FRA,Arsenal,"23 years, 361 days",26.3,2,4,2,50.0,0.15,0.08,0.5,1.0,3.3,0,0,0,2.1,2.1,0.52,-0.1,-0.1,Defender,
+Robert Sánchez,ESP,Chelsea,"27 years, 122 days",23.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Goalkeeper,
+Jadon Sancho,ENG,Chelsea,"24 years, 360 days",15.9,2,18,4,22.2,1.13,0.25,0.11,0.5,14.9,0,0,0,1.6,1.6,0.09,0.4,0.4,Forward,
+Ibrahim Sangaré,CIV,Nottingham Forest,"27 years, 108 days",3.0,0,1,1,100.0,0.33,0.33,0.0,0.0,32.0,0,0,0,0.0,0.0,0.02,0.0,0.0,Midfielder,
+Pablo Sarabia,ESP,Wolves,"32 years, 313 days",6.3,1,13,6,46.2,2.07,0.96,0.08,0.17,19.6,1,0,0,2.5,2.5,0.19,-1.5,-1.5,Midfielder,Forward
+Jeremy Sarmiento,ECU,Brighton,"22 years, 277 days",0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Midfielder,
+Ismaila Sarr,SEN,Crystal Palace,"27 years, 023 days",21.4,7,43,24,55.8,2.01,1.12,0.16,0.29,13.8,0,0,0,7.8,7.8,0.19,-0.8,-0.8,Midfielder,Forward
+Sávio,BRA,Manchester City,"20 years, 344 days",17.4,1,51,19,37.3,2.93,1.09,0.02,0.05,17.8,1,0,0,4.6,4.6,0.09,-3.6,-3.6,Forward,Midfielder
+Oliver Scarles,ENG,West Ham,"19 years, 098 days",4.5,0,3,0,0.0,0.67,0.0,0.0,,20.2,0,0,0,0.1,0.1,0.04,-0.1,-0.1,Defender,
+Dane Scarlett,ENG,Tottenham,"20 years, 361 days",0.4,0,1,1,100.0,2.65,2.65,0.0,0.0,13.9,0,0,0,0.0,0.0,0.04,0.0,0.0,Forward,Midfielder
+Kevin Schade,GER,Brentford,"23 years, 113 days",17.5,7,40,17,42.5,2.29,0.97,0.18,0.41,11.6,0,0,0,5.8,5.8,0.15,1.2,1.2,Forward,
+Fabian Schär,SUI,Newcastle Utd,"33 years, 090 days",22.8,2,21,6,28.6,0.92,0.26,0.1,0.33,18.3,3,0,0,1.6,1.6,0.08,0.4,0.4,Defender,
+Jeffrey Schlupp,GHA,Crystal Palace,"32 years, 087 days",1.1,0,4,2,50.0,3.5,1.75,0.0,0.0,17.7,0,0,0,0.2,0.2,0.04,-0.2,-0.2,Midfielder,Defender
+Alex Scott,ENG,Bournemouth,"21 years, 211 days",4.2,0,5,2,40.0,1.18,0.47,0.0,0.0,19.6,0,0,0,0.3,0.3,0.05,-0.3,-0.3,Midfielder,
+Matz Sels,BEL,Nottingham Forest,"33 years, 022 days",29.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Goalkeeper,
+Nélson Semedo,POR,Wolves,"31 years, 124 days",23.8,0,12,6,50.0,0.5,0.25,0.0,0.0,24.7,0,0,0,0.6,0.6,0.05,-0.6,-0.6,Defender,
+Antoine Semenyo,GHA,Bournemouth,"25 years, 072 days",27.4,7,101,32,31.7,3.69,1.17,0.07,0.22,16.5,0,0,0,8.6,8.6,0.08,-1.6,-1.6,Forward,
+Marcos Senesi,ARG,Bournemouth,"27 years, 314 days",10.2,0,2,0,0.0,0.2,0.0,0.0,,6.0,0,0,0,0.8,0.8,0.4,-0.8,-0.8,Defender,
+Ryan Sessegnon,ENG,Fulham,"24 years, 306 days",1.1,2,3,3,100.0,2.81,2.81,0.67,0.67,12.6,0,0,0,0.5,0.5,0.18,1.5,1.5,Defender,Midfielder
+Luke Shaw,ENG,Manchester Utd,"29 years, 251 days",0.8,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Defender,
+Zain Silcott-Duberry,MSR,Bournemouth,"19 years, 254 days",0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Forward,
+Bernardo Silva,POR,Manchester City,"30 years, 222 days",22.7,2,27,9,33.3,1.19,0.4,0.07,0.22,13.0,0,0,0,3.0,3.0,0.11,-1.0,-1.0,Midfielder,Forward
+Jota Silva,POR,Nottingham Forest,"25 years, 231 days",8.1,2,17,4,23.5,2.11,0.5,0.12,0.5,14.8,0,0,0,1.5,1.5,0.09,0.5,0.5,Forward,Midfielder
+Eric da Silva Moreira,GER,Nottingham Forest,"18 years, 321 days",0.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Midfielder,Defender
+Jahmai Simpson-Pusey,ENG,Manchester City,"19 years, 136 days",1.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Defender,
+Luis Sinisterra,COL,Bournemouth,"25 years, 276 days",2.6,1,13,6,46.2,4.96,2.29,0.08,0.17,14.8,0,0,0,1.2,1.2,0.09,-0.2,-0.2,Forward,Midfielder
+Oliver Skipp,ENG,Leicester City,"24 years, 185 days",8.7,0,3,1,33.3,0.35,0.12,0.0,0.0,20.2,0,0,0,0.1,0.1,0.04,-0.1,-0.1,Midfielder,
+William Smallbone,IRL,Southampton,"25 years, 027 days",6.2,1,5,1,20.0,0.81,0.16,0.2,1.0,17.6,1,0,0,0.4,0.4,0.08,0.6,0.6,Midfielder,
+Adam Smith,ENG,Bournemouth,"33 years, 325 days",11.5,0,1,0,0.0,0.09,0.0,0.0,,10.2,0,0,0,0.6,0.6,0.6,-0.6,-0.6,Defender,
+Emile Smith Rowe,ENG,Fulham,"24 years, 235 days",19.2,5,32,8,25.0,1.67,0.42,0.16,0.63,15.4,0,0,0,4.1,4.1,0.13,0.9,0.9,Midfielder,
+Dominic Solanke,ENG,Tottenham,"27 years, 187 days",19.8,7,52,21,40.4,2.63,1.06,0.13,0.33,12.2,0,0,0,9.2,9.2,0.18,-2.2,-2.2,Forward,
+Carlos Soler,ESP,West Ham,"28 years, 077 days",12.2,1,19,5,26.3,1.56,0.41,0.05,0.2,19.7,1,0,0,1.2,1.2,0.06,-0.2,-0.2,Midfielder,Forward
+Ramón Sosa,PAR,Nottingham Forest,"25 years, 201 days",2.7,1,10,5,50.0,3.73,1.87,0.1,0.2,18.9,0,0,0,0.9,0.9,0.09,0.1,0.1,Forward,Midfielder
+Tomáš Souček,CZE,West Ham,"30 years, 021 days",23.1,7,44,12,27.3,1.9,0.52,0.16,0.58,11.3,0,0,0,4.9,4.9,0.11,2.1,2.1,Midfielder,
+Boubakary Soumaré,FRA,Leicester City,"26 years, 021 days",17.4,0,6,0,0.0,0.35,0.0,0.0,,23.7,0,0,0,0.2,0.2,0.04,-0.2,-0.2,Midfielder,
+Djed Spence,ENG,Tottenham,"24 years, 223 days",11.8,1,6,2,33.3,0.51,0.17,0.17,0.5,25.2,0,0,0,0.3,0.3,0.04,0.7,0.7,Defender,
+Jay Stansfield,ENG,Fulham,"22 years, 116 days",0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Midfielder,
+Jason Steele,ENG,Brighton,"34 years, 214 days",2.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Goalkeeper,
+Jack Stephens,ENG,Southampton,"31 years, 052 days",8.9,0,2,0,0.0,0.22,0.0,0.0,,7.9,0,0,0,0.3,0.3,0.14,-0.3,-0.3,Defender,
+Raheem Sterling,ENG,Arsenal,"30 years, 102 days",3.4,0,9,0,0.0,2.61,0.0,0.0,,15.3,2,0,0,1.0,1.0,0.11,-1.0,-1.0,Forward,Midfielder
+Ross Stewart,SCO,Southampton,"28 years, 252 days",1.5,0,2,0,0.0,1.36,0.0,0.0,,12.5,0,0,0,0.1,0.1,0.06,-0.1,-0.1,Forward,Midfielder
+Jakub Stolarczyk,POL,Leicester City,"24 years, 091 days",6.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Goalkeeper,
+John Stones,ENG,Manchester City,"30 years, 296 days",6.1,2,2,2,100.0,0.33,0.33,1.0,1.0,5.1,0,0,0,0.4,0.4,0.22,1.6,1.6,Defender,Midfielder
+Jørgen Strand Larsen,NOR,Wolves,"25 years, 042 days",23.0,9,39,26,66.7,1.7,1.13,0.23,0.35,12.1,0,0,0,6.6,6.6,0.17,2.4,2.4,Forward,
+Yukinari Sugawara,JPN,Southampton,"24 years, 265 days",16.0,1,12,4,33.3,0.75,0.25,0.08,0.25,19.2,1,0,0,0.4,0.4,0.04,0.6,0.6,Defender,Midfielder
+Kamaldeen Sulemana,GHA,Southampton,"23 years, 033 days",8.2,1,14,5,35.7,1.7,0.61,0.07,0.2,18.7,0,0,0,0.9,0.9,0.06,0.1,0.1,Forward,Midfielder
+Crysencio Summerville,NED,West Ham,"23 years, 141 days",8.7,1,14,4,28.6,1.6,0.46,0.07,0.25,13.4,0,0,0,1.6,1.6,0.12,-0.6,-0.6,Forward,Midfielder
+Sammie Szmodics,IRL,Ipswich Town,"29 years, 177 days",10.9,4,21,12,57.1,1.93,1.1,0.19,0.33,14.0,0,0,0,3.4,3.4,0.16,0.6,0.6,Forward,Midfielder
+Dominik Szoboszlai,HUN,Liverpool,"24 years, 146 days",21.7,5,55,17,30.9,2.53,0.78,0.09,0.29,17.9,1,0,0,6.7,6.7,0.12,-1.7,-1.7,Midfielder,
+Matt Targett,ENG,Newcastle Utd,"29 years, 183 days",0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Defender,
+James Tarkowski,ENG,Everton,"32 years, 121 days",28.9,1,14,4,28.6,0.48,0.14,0.07,0.25,8.6,0,0,0,1.1,1.1,0.08,-0.1,-0.1,Defender,
+Marcus Tavernier,ENG,Bournemouth,"25 years, 363 days",16.7,3,47,15,31.9,2.81,0.9,0.06,0.2,20.4,4,0,0,5.2,5.2,0.11,-2.2,-2.2,Forward,Midfielder
+Charlie Taylor,ENG,Southampton,"31 years, 183 days",3.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Defender,
+Jack Taylor,IRL,Ipswich Town,"26 years, 270 days",5.5,1,13,4,30.8,2.36,0.73,0.08,0.25,23.7,0,0,0,0.6,0.6,0.04,0.4,0.4,Midfielder,
+Mathys Tel,FRA,Tottenham,"19 years, 327 days",3.4,0,9,5,55.6,2.66,1.48,0.0,0.0,15.8,0,0,0,0.8,0.8,0.09,-0.8,-0.8,Forward,
+Kenny Tete,NED,Fulham,"29 years, 162 days",14.0,0,18,2,11.1,1.28,0.14,0.0,0.0,16.4,0,0,0,1.0,1.0,0.06,-1.0,-1.0,Defender,
+Thiago,BRA,Brentford,"23 years, 267 days",1.5,0,1,0,0.0,0.68,0.0,0.0,,14.7,0,0,0,0.1,0.1,0.1,-0.1,-0.1,Forward,
+Luke Thomas,ENG,Leicester City,"23 years, 283 days",4.0,0,2,0,0.0,0.5,0.0,0.0,,25.6,0,0,0,0.0,0.0,0.02,0.0,0.0,Defender,
+Youri Tielemans,BEL,Aston Villa,"27 years, 317 days",27.7,2,29,8,27.6,1.05,0.29,0.07,0.25,21.2,0,0,1,2.6,1.8,0.06,-0.6,0.2,Midfielder,
+Kieran Tierney,SCO,Arsenal,"27 years, 288 days",0.9,0,1,0,0.0,1.11,0.0,0.0,,2.6,0,0,0,0.2,0.2,0.21,-0.2,-0.2,Defender,Forward
+Jurriën Timber,NED,Arsenal,"23 years, 276 days",24.4,1,12,3,25.0,0.49,0.12,0.08,0.33,15.3,0,0,0,0.7,0.7,0.06,0.3,0.3,Defender,
+Jean-Clair Todibo,FRA,West Ham,"25 years, 080 days",12.7,0,4,0,0.0,0.31,0.0,0.0,,14.6,0,0,0,0.2,0.2,0.04,-0.2,-0.2,Defender,
+Harry Toffolo,ENG,Nottingham Forest,"29 years, 213 days",0.5,0,1,0,0.0,1.91,0.0,0.0,,28.5,0,0,0,0.0,0.0,0.02,0.0,0.0,Defender,
+Takehiro Tomiyasu,JPN,Arsenal,"26 years, 135 days",0.1,0,1,0,0.0,12.86,0.0,0.0,,1.2,0,0,0,0.2,0.2,0.18,-0.2,-0.2,Defender,
+Sandro Tonali,ITA,Newcastle Utd,"24 years, 316 days",19.2,1,22,7,31.8,1.14,0.36,0.05,0.14,17.9,2,0,0,3.1,3.1,0.14,-2.1,-2.1,Midfielder,
+Pau Torres,ESP,Aston Villa,"28 years, 063 days",17.2,0,8,2,25.0,0.46,0.12,0.0,0.0,11.7,0,0,0,0.5,0.5,0.06,-0.5,-0.5,Defender,
+Conor Townsend,ENG,Ipswich Town,"32 years, 016 days",1.5,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Defender,
+Adama Traoré,ESP,Fulham,"29 years, 054 days",15.6,2,34,11,32.4,2.17,0.7,0.06,0.18,14.3,0,0,0,3.7,3.7,0.11,-1.7,-1.7,Forward,Midfielder
+Mark Travers,IRL,Bournemouth,"25 years, 306 days",5.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Goalkeeper,
+Ryan Trevitt,ENG,Brentford,"22 years, 008 days",0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Midfielder,
+Kieran Trippier,ENG,Newcastle Utd,"34 years, 182 days",7.8,0,2,0,0.0,0.26,0.0,0.0,,19.5,0,0,0,0.0,0.0,0.02,0.0,0.0,Defender,
+Leandro Trossard,BEL,Arsenal,"30 years, 106 days",21.1,4,53,14,26.4,2.51,0.66,0.08,0.29,16.6,0,0,0,5.1,5.1,0.1,-1.1,-1.1,Forward,
+Kostas Tsimikas,GRE,Liverpool,"28 years, 312 days",5.7,0,3,1,33.3,0.52,0.17,0.0,0.0,18.3,0,0,0,0.1,0.1,0.04,-0.1,-0.1,Defender,
+Axel Tuanzebe,COD,Ipswich Town,"27 years, 126 days",12.2,0,4,0,0.0,0.33,0.0,0.0,,15.7,0,0,0,0.2,0.2,0.05,-0.2,-0.2,Defender,
+Destiny Udogie,ITA,Tottenham,"22 years, 112 days",18.4,0,5,1,20.0,0.27,0.05,0.0,0.0,15.1,0,0,0,0.3,0.3,0.06,-0.3,-0.3,Defender,
+Manuel Ugarte Ribeiro,URU,Manchester Utd,"23 years, 343 days",14.7,1,11,2,18.2,0.75,0.14,0.09,0.5,22.0,0,0,0,0.5,0.5,0.04,0.5,0.5,Midfielder,
+Lesley Ugochukwu,FRA,Southampton,"20 years, 359 days",11.4,0,6,0,0.0,0.53,0.0,0.0,,21.6,0,0,0,0.4,0.4,0.06,-0.4,-0.4,Midfielder,
+Enes Ünal,TUR,Bournemouth,"27 years, 314 days",3.8,2,20,7,35.0,5.22,1.83,0.1,0.29,14.6,3,0,0,2.7,2.7,0.14,-0.7,-0.7,Forward,Midfielder
+Virgil van Dijk,NED,Liverpool,"33 years, 255 days",29.0,1,19,6,31.6,0.66,0.21,0.05,0.17,13.6,1,0,0,1.6,1.6,0.08,-0.6,-0.6,Defender,
+Jamie Vardy,ENG,Leicester City,"38 years, 068 days",24.7,7,46,19,41.3,1.86,0.77,0.13,0.32,11.7,0,1,1,9.2,8.5,0.18,-2.2,-2.5,Forward,
+Renato Veiga,POR,Chelsea,"21 years, 234 days",2.0,0,3,1,33.3,1.49,0.5,0.0,0.0,17.1,0,0,0,0.1,0.1,0.05,-0.1,-0.1,Defender,Midfielder
+Joël Veltman,NED,Brighton,"33 years, 064 days",18.3,0,6,1,16.7,0.33,0.05,0.0,0.0,19.7,0,0,0,0.5,0.5,0.08,-0.5,-0.5,Defender,
+Micky van de Ven,NED,Tottenham,"23 years, 335 days",9.1,0,5,1,20.0,0.55,0.11,0.0,0.0,10.8,0,0,0,0.4,0.4,0.07,-0.4,-0.4,Defender,
+Bart Verbruggen,NED,Brighton,"22 years, 214 days",27.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Goalkeeper,
+Jannik Vestergaard,DEN,Leicester City,"32 years, 229 days",15.5,0,3,2,66.7,0.19,0.13,0.0,0.0,9.7,0,0,0,0.1,0.1,0.03,-0.1,-0.1,Defender,
+Guglielmo Vicario,ITA,Tottenham,"28 years, 164 days",17.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Goalkeeper,
+Carlos Vinícius,BRA,Fulham,"29 years, 360 days",0.0,0,1,1,100.0,22.5,22.5,0.0,0.0,17.4,0,0,0,0.0,0.0,0.04,0.0,0.0,Midfielder,
+Kyle Walker,ENG,Manchester City,"34 years, 296 days",10.8,0,5,2,40.0,0.46,0.19,0.0,0.0,27.7,0,0,0,0.1,0.1,0.03,-0.1,-0.1,Defender,
+Kyle Walker-Peters,ENG,Southampton,"27 years, 341 days",26.4,0,16,5,31.3,0.61,0.19,0.0,0.0,19.5,0,0,0,0.5,0.5,0.03,-0.5,-0.5,Defender,
+Christian Walton,ENG,Ipswich Town,"29 years, 131 days",6.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Goalkeeper,
+Aaron Wan-Bissaka,ENG,West Ham,"27 years, 114 days",27.0,2,13,4,30.8,0.48,0.15,0.15,0.5,15.5,0,0,0,1.0,1.0,0.08,1.0,1.0,Defender,
+Danny Ward,WAL,Leicester City,"31 years, 271 days",1.5,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Goalkeeper,
+James Ward-Prowse,ENG,West Ham,"30 years, 139 days",4.6,0,2,1,50.0,0.43,0.22,0.0,0.0,18.4,1,0,0,0.3,0.3,0.17,-0.3,-0.3,Midfielder,
+James Ward-Prowse,ENG,Nottingham Forest,"30 years, 139 days",4.4,0,2,1,50.0,0.45,0.23,0.0,0.0,29.0,1,0,0,0.1,0.1,0.03,-0.1,-0.1,Midfielder,
+Ollie Watkins,ENG,Aston Villa,"29 years, 080 days",22.8,13,70,30,42.9,3.07,1.31,0.16,0.37,12.2,0,2,2,13.9,12.3,0.18,-0.9,-1.3,Forward,
+Adam Webster,ENG,Brighton,"30 years, 075 days",6.9,0,1,1,100.0,0.15,0.15,0.0,0.0,15.3,0,0,0,0.0,0.0,0.02,0.0,0.0,Defender,
+Danny Welbeck,ENG,Brighton,"34 years, 114 days",16.5,7,42,15,35.7,2.54,0.91,0.17,0.47,15.5,7,0,0,6.7,6.7,0.16,0.3,0.3,Forward,
+Welington,BRA,Southampton,"24 years, 029 days",1.9,0,1,0,0.0,0.52,0.0,0.0,,31.9,0,0,0,0.0,0.0,0.01,0.0,0.0,Defender,Midfielder
+Timo Werner,GER,Tottenham,"29 years, 014 days",5.7,0,8,3,37.5,1.4,0.52,0.0,0.0,18.2,0,0,0,1.0,1.0,0.12,-1.0,-1.0,Forward,Midfielder
+Adam Wharton,ENG,Crystal Palace,"20 years, 291 days",9.4,0,10,5,50.0,1.07,0.53,0.0,0.0,25.0,0,0,0,0.3,0.3,0.03,-0.3,-0.3,Midfielder,
+Ben White,ENG,Arsenal,"27 years, 163 days",7.8,0,5,1,20.0,0.64,0.13,0.0,0.0,21.8,0,0,0,0.2,0.2,0.04,-0.2,-0.2,Defender,
+Mats Wieffer,NED,Brighton,"25 years, 124 days",5.5,1,5,2,40.0,0.91,0.36,0.2,0.5,11.0,0,0,0,0.5,0.5,0.09,0.5,0.5,Midfielder,
+Neco Williams,WAL,Nottingham Forest,"23 years, 341 days",19.8,1,27,6,22.2,1.36,0.3,0.04,0.17,19.6,1,0,0,1.8,1.8,0.07,-0.8,-0.8,Defender,
+Willian,BRA,Fulham,"36 years, 223 days",1.5,0,3,0,0.0,2.06,0.0,0.0,,22.9,0,0,0,0.1,0.1,0.04,-0.1,-0.1,Forward,Midfielder
+Joe Willock,ENG,Newcastle Utd,"25 years, 212 days",9.1,0,12,2,16.7,1.32,0.22,0.0,0.0,17.5,0,0,0,0.9,0.9,0.07,-0.9,-0.9,Midfielder,Forward
+Callum Wilson,ENG,Newcastle Utd,"33 years, 021 days",1.8,0,3,0,0.0,1.66,0.0,0.0,,14.7,0,0,0,0.2,0.2,0.08,-0.2,-0.2,Forward,Midfielder
+Harry Wilson,WAL,Fulham,"27 years, 363 days",9.3,5,28,9,32.1,3.0,0.97,0.18,0.56,17.2,1,0,0,3.2,3.2,0.12,1.8,1.8,Forward,Midfielder
+Harry Winks,ENG,Leicester City,"29 years, 046 days",17.1,0,10,4,40.0,0.59,0.23,0.0,0.0,29.2,0,0,0,0.2,0.2,0.02,-0.2,-0.2,Midfielder,
+Ben Winterburn,ENG,Bournemouth,"20 years, 197 days",0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Midfielder,
+Yoane Wissa,COD,Brentford,"28 years, 198 days",23.4,14,63,30,47.6,2.69,1.28,0.22,0.47,14.0,0,0,0,13.6,13.6,0.22,0.4,0.4,Forward,
+Chris Wood,NZL,Nottingham Forest,"33 years, 103 days",26.0,18,50,29,58.0,1.92,1.11,0.3,0.52,14.6,0,3,3,11.0,8.7,0.17,7.0,6.3,Forward,
+Nathan Wood-Gordon,ENG,Southampton,"22 years, 293 days",6.9,0,2,0,0.0,0.29,0.0,0.0,,5.9,0,0,0,0.2,0.2,0.12,-0.2,-0.2,Defender,
+Luke Woolfenden,ENG,Ipswich Town,"26 years, 150 days",11.2,0,1,0,0.0,0.09,0.0,0.0,,12.9,0,0,0,0.0,0.0,0.03,0.0,0.0,Defender,
+Yehor Yarmoliuk,UKR,Brentford,"21 years, 019 days",8.8,0,9,2,22.2,1.02,0.23,0.0,0.0,15.9,0,0,0,0.6,0.6,0.07,-0.6,-0.6,Midfielder,
+Ryan Yates,ENG,Nottingham Forest,"27 years, 119 days",17.2,2,27,8,29.6,1.57,0.47,0.07,0.25,17.5,0,0,0,2.2,2.2,0.08,-0.2,-0.2,Midfielder,
+Leny Yoro,FRA,Manchester Utd,"19 years, 127 days",7.8,0,5,1,20.0,0.64,0.13,0.0,0.0,8.6,0,0,0,0.7,0.7,0.15,-0.7,-0.7,Defender,
+Ashley Young,ENG,Everton,"39 years, 254 days",17.3,1,6,3,50.0,0.35,0.17,0.17,0.33,24.5,3,0,0,0.3,0.3,0.04,0.7,0.7,Defender,Forward
+Illia Zabarnyi,UKR,Bournemouth,"22 years, 200 days",26.3,0,7,0,0.0,0.27,0.0,0.0,,9.2,0,0,0,0.8,0.8,0.12,-0.8,-0.8,Defender,
+Oleksandr Zinchenko,UKR,Arsenal,"28 years, 095 days",3.3,0,3,0,0.0,0.9,0.0,0.0,,14.0,0,0,0,0.2,0.2,0.05,-0.2,-0.2,Defender,Midfielder
+Joshua Zirkzee,NED,Manchester Utd,"23 years, 302 days",13.9,3,25,9,36.0,1.8,0.65,0.12,0.33,13.0,0,0,0,4.5,4.5,0.18,-1.5,-1.5,Forward,Midfielder
+Martin Ødegaard,NOR,Arsenal,"26 years, 093 days",19.2,2,33,11,33.3,1.72,0.57,0.03,0.09,19.2,2,1,1,3.7,2.9,0.09,-1.7,-1.9,Midfielder,
